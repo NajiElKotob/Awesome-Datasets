@@ -23,3 +23,4 @@
 ### Database Generator
 * [Generate test data - JSON](http://www.databasetestdata.com) - databasetestdata.com
 * [Generate Data](https://www.generatedata.com) - generatedata.com provides a quick and simple way to let you generate large volumes of custom data in whatever format you require.
+* [DataFairy](https://devskiller.com/datafairy/) - devskiller.com/datafairy
