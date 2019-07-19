@@ -3,6 +3,7 @@
 
 ## Datasets
 * [Ready PBIX Datasets](https://github.com/NajiElKotob/Awesome-Power-BI/tree/master/Datasets) :boom:
+* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
 * [Gapminder](https://www.gapminder.org/data)
 * [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
