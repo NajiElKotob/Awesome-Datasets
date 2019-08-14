@@ -7,7 +7,6 @@
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
 * [Gapminder](https://www.gapminder.org/data)
 * [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
-* [Kaggle](https://www.kaggle.com/datasets) - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
 * [The World Bank](http://data.worldbank.org)
 * [U.S. Census Bureau](https://www.census.gov/people)
 * [U.S Data](http://catalog.data.gov/dataset)
@@ -17,11 +16,14 @@
 * [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
 * [OpenML](https://www.openml.org) - Find or add data to analyse
 * [Vanderbilt University](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets) - Department of Biostatistics
-* [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 * [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight 
 * [Divvy Data](https://www.divvybikes.com/system-data) - Historical trip data available to the public
 
+Google
+* [Kaggle](https://www.kaggle.com/datasets) - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
+* [Open Datasets](https://ai.google/tools/datasets) - Google AI
+* [Google Public Data](https://www.google.com/publicdata/directory)
 
 
 ### Database Generator
