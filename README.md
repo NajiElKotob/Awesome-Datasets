@@ -25,6 +25,9 @@ Google
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [Google Public Data](https://www.google.com/publicdata/directory)
 
+### Articles and References
+* [http://hackage.haskell.org/package/datasets](Classical data sets for statistics and machine learning)
+* [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 
 ### Database Generator
 * [Generate test data - JSON](http://www.databasetestdata.com) - databasetestdata.com
