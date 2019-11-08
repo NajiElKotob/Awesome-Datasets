@@ -26,6 +26,9 @@
 * [Zayed University Open Data](https://www.zu.ac.ae/main/en/open_data.aspx)
 * [Vanderbilt University](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets) - Department of Biostatistics
 
+### Aviation
+* [Open Data documents provided by the UAE GCAA](https://www.gcaa.gov.ae/en/ePublication/Pages/OpenDataLibrary.aspx) - gcaa.gov.ae
+
 ### Google
 * [Kaggle](https://www.kaggle.com/datasets) - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
