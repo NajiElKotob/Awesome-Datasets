@@ -37,6 +37,7 @@
 * [IEA Oil Information Statistics](https://www.oecd-ilibrary.org/energy/data/iea-oil-information-statistics_oil-data-en) - OECD
 * [Gampinder (Oil and Gas)](https://www.gapminder.org/data/) - Gapminder
 * [U.S. Energy Information Administration](https://www.eia.gov/petroleum/data.php) - Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.
+* [Energy and Water](https://www.scad.gov.ae/en/pages/statistics.aspx?topicid=14) - Statistic Centre Abu Dhabi
 
 ### Google
 * [Kaggle](https://www.kaggle.com/datasets) - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
