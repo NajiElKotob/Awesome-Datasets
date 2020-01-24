@@ -8,6 +8,7 @@
 * [Gapminder](https://www.gapminder.org/data) - gapminder.org
 * [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
 * [The World Bank](http://data.worldbank.org) - worldbank.org
+* [Data World](https://data.world/) - data.world
 * [U.S. Census Bureau](https://www.census.gov/people) - census.gov
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [UN Data](http://data.un.org) - un.org
@@ -29,6 +30,12 @@
 ### Aviation
 * [Open Data documents provided by the UAE GCAA](https://www.gcaa.gov.ae/en/ePublication/Pages/OpenDataLibrary.aspx) - gcaa.gov.ae
 * [General Authority of Civil Aviation](http://data.bayanat.ae/en_GB/organization/general-authority-of-civil-aviation) - data.bayanat.ae
+
+### Oil and Gas
+* [Bayanat (Oil)](http://data.bayanat.ae/en_GB/dataset?tags=oil) - bayanat.ae
+* [Data World (Oil and Gas)](https://data.world/search?context=community&q=oil&tags=oil&tags=gas&type=all) - Data World
+* [IEA Oil Information Statistics](https://www.oecd-ilibrary.org/energy/data/iea-oil-information-statistics_oil-data-en) - OECD
+* [U.S. Energy Information Administration](https://www.eia.gov/petroleum/data.php) - Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.
 
 ### Google
 * [Kaggle](https://www.kaggle.com/datasets) - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
