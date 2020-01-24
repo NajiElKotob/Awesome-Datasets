@@ -35,6 +35,7 @@
 * [Bayanat (Oil)](http://data.bayanat.ae/en_GB/dataset?tags=oil) - bayanat.ae
 * [Data World (Oil and Gas)](https://data.world/search?context=community&q=oil&tags=oil&tags=gas&type=all) - Data World
 * [IEA Oil Information Statistics](https://www.oecd-ilibrary.org/energy/data/iea-oil-information-statistics_oil-data-en) - OECD
+* [Gampinder (Oil and Gas)](https://www.gapminder.org/data/) - Gapminder
 * [U.S. Energy Information Administration](https://www.eia.gov/petroleum/data.php) - Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.
 
 ### Google
