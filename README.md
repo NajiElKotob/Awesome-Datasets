@@ -38,7 +38,11 @@
 * [Gampinder (Oil and Gas)](https://www.gapminder.org/data/) - Gapminder
 * [U.S. Energy Information Administration](https://www.eia.gov/petroleum/data.php) - Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.
 * [Energy and Water](https://www.scad.gov.ae/en/pages/statistics.aspx?topicid=14) - Statistic Centre Abu Dhabi
-
+* Tableau Gallery
+    * [World Oil Use and Reserves](https://www.tableau.com/solutions/gallery/oil-import-and-export)
+    * [Worldwide Fuel Consumption](https://www.tableau.com/solutions/gallery/worldwide-oil-usage)
+    * [Worldwide Oil Rigs](https://www.tableau.com/solutions/gallery/worldwide-oil-rigs)
+    
 ### Google
 * [Kaggle](https://www.kaggle.com/datasets) - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
