@@ -56,3 +56,7 @@
 * [Generate test data - JSON](http://www.databasetestdata.com) - databasetestdata.com
 * [Generate Data](https://www.generatedata.com) - generatedata.com provides a quick and simple way to let you generate large volumes of custom data in whatever format you require.
 * [DataFairy](https://devskiller.com/datafairy/) - devskiller.com/datafairy
+
+## Law and Regulations
+* [EU data protection rules](https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en)
+* [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) 
