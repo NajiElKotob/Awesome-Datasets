@@ -23,6 +23,7 @@
 * [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [Liban Data](https://www.libandata.org/ar)
+* [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
 
 ### Edu
 * [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=dateDown&view=table) - Center for Machine Learning and Intelligent Systems :star:
