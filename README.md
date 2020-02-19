@@ -48,7 +48,7 @@
 
 ### Banking
 * [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) - UCI
-
+* [Loan Data Set Classification](https://www.kaggle.com/burak3ergun/loan-data-set) - Burak Ergün (Kaggle)
 
 
 ### Google
