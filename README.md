@@ -73,3 +73,4 @@
 ## Law and Regulations
 * [EU data protection rules](https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en)
 * [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) 
+* [GDPR](https://gdpr-info.eu/) - General Data Protection Regulation
