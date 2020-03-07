@@ -53,6 +53,11 @@
 ### Medical
 * [CoronaVirus Genome vs ZIKA/MERS/EBOLA](https://www.kaggle.com/nishantbhadauria/coronavirus-genome-vs-zikamersebola) - Comparison of different virus Genome for study
 
+### Social Media
+* [TED Talks](https://data.world/owentemple/ted-talks-complete-list)
+
+-----
+
 ## UN
 * [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
 
