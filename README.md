@@ -54,13 +54,13 @@
 * [CoronaVirus Genome vs ZIKA/MERS/EBOLA](https://www.kaggle.com/nishantbhadauria/coronavirus-genome-vs-zikamersebola) - Comparison of different virus Genome for study
 
 
-### Google
+## Google
 * [Kaggle](https://www.kaggle.com/datasets) - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [Google Public Data](https://www.google.com/publicdata/directory)
 
 ## Articles and References
-* [http://hackage.haskell.org/package/datasets](Classical data sets for statistics and machine learning)
+* [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
 * [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 
 ## Database Generator
