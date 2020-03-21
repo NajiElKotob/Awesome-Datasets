@@ -1,17 +1,24 @@
 # Awesome-Datasets
 
 
+### Open Data Platforms
+* [Gapminder](https://www.gapminder.org/data) - gapminder.org
+* [Data World](https://data.world/) - data.world
+* [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
+* [UN Data](http://data.un.org) - un.org
+* [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
+* [The World Bank](http://data.worldbank.org) - worldbank.org
+* [U.S Data](http://catalog.data.gov/dataset) - data.gov
+* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
+* [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
+* [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
+* [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
+* [Open Data DC](https://opendata.dc.gov/) - dc.gov
+
 ## Datasets
 * [Ready PBIX Datasets](https://github.com/NajiElKotob/Awesome-Power-BI/tree/master/Datasets) :boom:
-* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
-* [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
-* [Gapminder](https://www.gapminder.org/data) - gapminder.org
 * [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
-* [The World Bank](http://data.worldbank.org) - worldbank.org
-* [Data World](https://data.world/) - data.world
 * [U.S. Census Bureau](https://www.census.gov/people) - census.gov
-* [U.S Data](http://catalog.data.gov/dataset) - data.gov
-* [UN Data](http://data.un.org) - un.org
 * [Coffee and Code](https://www.kaggle.com/devready/coffee-and-code) - The case for Lebanon
 * [Quality of Government](https://www.kaggle.com/devready/quality-of-government) - QoG based on three factors; EoDB, EGDI and CPI
 * [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
@@ -19,11 +26,9 @@
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 * [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight 
 * [Divvy Data](https://www.divvybikes.com/system-data) - Historical trip data available to the public
-* [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
-* [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
-* [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [Liban Data](https://www.libandata.org/ar)
-* [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
+
+-----
 
 ### Edu
 * [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=dateDown&view=table) - Center for Machine Learning and Intelligent Systems :star:
