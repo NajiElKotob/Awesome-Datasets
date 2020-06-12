@@ -5,7 +5,6 @@
 * [Our World in Data](https://ourworldindata.org/) - ourworldindata.org
 * [Gapminder](https://www.gapminder.org/data) - gapminder.org
 * [Data World](https://data.world/) - data.world
-* [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
 * [UN Data](http://data.un.org) - un.org
 * [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
 * [The World Bank](http://data.worldbank.org) - worldbank.org
@@ -30,6 +29,11 @@
 * [Divvy Data](https://www.divvybikes.com/system-data) - Historical trip data available to the public
 * [Liban Data](https://www.libandata.org/ar)
 * [Earthquake](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) - USGS
+
+-----
+### Open Data
+* [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
+* [Saudi Open Data portal](https://www.data.gov.sa/) - data.gov.sa
 
 -----
 
