@@ -34,6 +34,7 @@
 ### Open Data
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
 * [Saudi Open Data portal](https://www.data.gov.sa/) - data.gov.sa
+* [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
 
 -----
 
