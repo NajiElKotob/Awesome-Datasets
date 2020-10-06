@@ -2,7 +2,6 @@
 
 
 ### Open Data Platforms
-* [UN Comtrade Database](https://comtrade.un.org/data)
 * [Our World in Data](https://ourworldindata.org/) - ourworldindata.org
 * [Gapminder](https://www.gapminder.org/data) - gapminder.org
 * [Data World](https://data.world/) - data.world
@@ -77,6 +76,7 @@
 -----
 
 ## UN
+* [UN Comtrade Database](https://comtrade.un.org/data)
 * [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
 
 ## Google
