@@ -18,6 +18,7 @@
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
 
 ## Datasets
+* [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
 * [Ready PBIX Datasets](https://github.com/NajiElKotob/Awesome-Power-BI/tree/master/Datasets) :boom:
 * [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
 * [U.S. Census Bureau](https://www.census.gov/people) - census.gov
