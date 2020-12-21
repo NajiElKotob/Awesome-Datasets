@@ -11,6 +11,7 @@
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
 * [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
+* [The Global Health Observatory](https://www.who.int/data/gho/) - (who.int) Explore a world of health data
 * [NASA APIs](https://api.nasa.gov/)
 * [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
 * [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
