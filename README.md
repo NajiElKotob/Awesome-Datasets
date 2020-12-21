@@ -89,6 +89,9 @@
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [Google Public Data](https://www.google.com/publicdata/directory)
 
+## AWS
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
+
 ## Articles and References
 * [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
 * [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
