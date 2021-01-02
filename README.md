@@ -85,6 +85,7 @@
 
 ## UN
 * [UN Comtrade Database](https://comtrade.un.org/data)
+   * [UN Comtrade Reference Tables](https://unstats.un.org/unsd/tradekb/Knowledgebase/50039/UN-Comtrade-Reference-Tables)
 * [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
 
 ## Google
