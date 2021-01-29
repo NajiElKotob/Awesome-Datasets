@@ -69,6 +69,9 @@
     * [Worldwide Fuel Consumption](https://www.tableau.com/solutions/gallery/worldwide-oil-usage)
     * [Worldwide Oil Rigs](https://www.tableau.com/solutions/gallery/worldwide-oil-rigs)
 
+### Satellite
+* [Earth Online (European Space Agency)](https://earth.esa.int/eogateway/search?skipDetection=true&text=&category=Data) - Discover and download the Earth observation data you need from the broad catalogue of missions the European Space Agency operate and support.
+
 ### Banking
 * [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) - UCI
 * [Loan Data Set Classification](https://www.kaggle.com/burak3ergun/loan-data-set) - Burak Ergün (Kaggle)
