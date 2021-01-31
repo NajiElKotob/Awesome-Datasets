@@ -19,6 +19,7 @@
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [UN Data](http://data.un.org) - un.org
 * [United Nations Conference on Trade and Development](https://unctadstat.unctad.org/) - unctad.org
+* [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
 
 ## Datasets
 * [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
