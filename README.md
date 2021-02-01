@@ -77,6 +77,10 @@
 * [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) - UCI
 * [Loan Data Set Classification](https://www.kaggle.com/burak3ergun/loan-data-set) - Burak Ergün (Kaggle)
 
+### Exchange Rates
+* [European Central Bank (API)](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion 
+   * e.g. https://api.exchangeratesapi.io/2021-02-01
+
 ### Medical
 * [CoronaVirus Genome vs ZIKA/MERS/EBOLA](https://www.kaggle.com/nishantbhadauria/coronavirus-genome-vs-zikamersebola) - Comparison of different virus Genome for study
 
