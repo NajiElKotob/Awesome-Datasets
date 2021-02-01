@@ -79,7 +79,7 @@
 
 ### Exchange Rates
 * [European Central Bank (API)](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion 
-   * e.g. https://api.exchangeratesapi.io/2021-02-01
+   * e.g. https://api.exchangeratesapi.io/2021-02-01, https://api.exchangeratesapi.io/latest?base=USD
 
 ### Medical
 * [CoronaVirus Genome vs ZIKA/MERS/EBOLA](https://www.kaggle.com/nishantbhadauria/coronavirus-genome-vs-zikamersebola) - Comparison of different virus Genome for study
