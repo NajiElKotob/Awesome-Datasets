@@ -90,6 +90,10 @@
 ### Telecom
 * [STC public dataset](https://www.stc.com.sa/wps/wcm/connect/english/individual/campaign/bigdata)
 
+### Dates and Times
+* [Sunrise-Sunset](https://sunrise-sunset.org/) - Check sunrise, sunset, dusk and dawn times for any location in the world!
+   * e.g. https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400&date=today
+
 -----
 
 ## UN
