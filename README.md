@@ -22,6 +22,7 @@
 * [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
 * [FAOSTAT](http://www.fao.org/faostat/en/#data) - fao.org
 * [OpenEI](https://openei.org/wiki/Data) - OpenEI openei.org is a trusted source of energy data
+* [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 
 ## Datasets
 * [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
