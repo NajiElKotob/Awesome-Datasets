@@ -24,7 +24,7 @@
 * [OpenEI](https://openei.org/wiki/Data) - OpenEI openei.org is a trusted source of energy data
 * [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 * [ENERGYDATA.INFO](https://energydata.info/) - energydata.info (Open Data and analytics for a sustainable energy future)
-
+* [Cambridge Open Data](https://data.cambridgema.gov/)
 
 ## Datasets
 * [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
