@@ -82,6 +82,8 @@
 ### Banking
 * [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) - UCI
 * [Loan Data Set Classification](https://www.kaggle.com/burak3ergun/loan-data-set) - Burak Ergün (Kaggle)
+* [SNB data portal](https://data.snb.ch/en)
+
 
 ### Exchange Rates
 * [European Central Bank (API)](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion 
