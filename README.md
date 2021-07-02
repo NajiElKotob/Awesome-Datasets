@@ -121,9 +121,7 @@
 ## AWS
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
-## Articles and References
-* [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
-* [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
+-----
 
 ## Database Generator
 * [Generate test data - JSON](http://www.databasetestdata.com) - databasetestdata.com
@@ -134,3 +132,8 @@
 * [EU data protection rules](https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en)
 * [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) 
 * [GDPR](https://gdpr-info.eu/) - General Data Protection Regulation
+
+----
+## Articles and References
+* [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
+* [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
