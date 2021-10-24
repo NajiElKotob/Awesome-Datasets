@@ -124,6 +124,7 @@
 -----
 ## Real-Time Data (RTD)
 * [Meetup RSVPs](http://meetup.github.io/stream/rsvpTicker/)
+* [Real-Time Traffic Speed Data (NYC OpenData)](https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/qkm5-nuaq) - cityofnewyork.us
 -----
 
 ## Database Generator
