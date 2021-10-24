@@ -123,7 +123,7 @@
 
 -----
 ## Real-Time Data (RTD)
-
+* [Meetup RSVPs](http://meetup.github.io/stream/rsvpTicker/)
 -----
 
 ## Database Generator
