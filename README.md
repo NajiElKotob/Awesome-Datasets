@@ -122,6 +122,9 @@
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
 -----
+## Real-Time Data (RTD)
+
+-----
 
 ## Database Generator
 * [Generate test data - JSON](http://www.databasetestdata.com) - databasetestdata.com
