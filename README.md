@@ -84,6 +84,8 @@
 * [Loan Data Set Classification](https://www.kaggle.com/burak3ergun/loan-data-set) - Burak Ergün (Kaggle)
 * [SNB data portal](https://data.snb.ch/en)
 
+# Bikes 🚲
+* [CitiBike](https://ride.citibikenyc.com/system-data) - citibikenyc.com
 
 ### Exchange Rates
 * [European Central Bank (API)](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion 
