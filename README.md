@@ -98,6 +98,11 @@
 ### Social Media
 * [TED Talks](https://data.world/owentemple/ted-talks-complete-list)
 
+### Trades
+* [Harmonized System | HS Product Code :tv:](https://www.youtube.com/watch?v=KcwBtVNamwM) - International Trade Administration
+
+
+
 ### Telecom
 * [STC public dataset](https://www.stc.com.sa/wps/wcm/connect/english/individual/campaign/bigdata)
 
