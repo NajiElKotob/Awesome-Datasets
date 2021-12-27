@@ -77,6 +77,10 @@
     * [Worldwide Fuel Consumption](https://www.tableau.com/solutions/gallery/worldwide-oil-usage)
     * [Worldwide Oil Rigs](https://www.tableau.com/solutions/gallery/worldwide-oil-rigs)
 
+### Aluminum
+* [International Aluminium Institute](https://international-aluminium.org/statistics/) - international-aluminium.org
+
+
 ### COVID-19
 * [COVID-19 Dataset by Our World in Data](https://github.com/owid/covid-19-data) - ourworldindata.org
 
