@@ -93,7 +93,7 @@
 * [Loan Data Set Classification](https://www.kaggle.com/burak3ergun/loan-data-set) - Burak Ergün (Kaggle)
 * [SNB data portal](https://data.snb.ch/en)
 
-# Bikes 🚲
+### Bikes 🚲
 * [CitiBike](https://ride.citibikenyc.com/system-data) - citibikenyc.com
 
 ### Exchange Rates
