@@ -1,7 +1,7 @@
 # Awesome Open Datasets
 
 
-### Open Data Platforms
+## Open Data Platforms
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
 * [Data World](https://data.world/) - data.world
 * [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
@@ -55,16 +55,16 @@
 
 -----
 
-### Edu
+### Edu 🏫
 * [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=dateDown&view=table) - Center for Machine Learning and Intelligent Systems :star:
 * [Zayed University Open Data](https://www.zu.ac.ae/main/en/open_data.aspx)
 * [Vanderbilt University](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets) - Department of Biostatistics
 
-### Aviation
+### Aviation ✈
 * [Open Data documents provided by the UAE GCAA](https://www.gcaa.gov.ae/en/ePublication/Pages/OpenDataLibrary.aspx) - gcaa.gov.ae
 * [General Authority of Civil Aviation](http://data.bayanat.ae/en_GB/organization/general-authority-of-civil-aviation) - data.bayanat.ae
 
-### Oil and Gas
+### Oil and Gas ⛽
 * [Bayanat (Oil)](http://data.bayanat.ae/en_GB/dataset?tags=oil) - bayanat.ae
 * [Data World (Oil and Gas)](https://data.world/search?context=community&q=oil&tags=oil&tags=gas&type=all) - Data World
 * [IEA Oil Information Statistics](https://www.oecd-ilibrary.org/energy/data/iea-oil-information-statistics_oil-data-en) - OECD
@@ -81,14 +81,14 @@
 * [International Aluminium Institute](https://international-aluminium.org/statistics/) - international-aluminium.org
 
 
-### COVID-19
+### COVID-19 🦠
 * [COVID-19 Dataset by Our World in Data](https://github.com/owid/covid-19-data) - ourworldindata.org
 
 
-### Satellite
+### Satellite 🛰
 * [Earth Online (European Space Agency)](https://earth.esa.int/eogateway/search?skipDetection=true&text=&category=Data) - Discover and download the Earth observation data you need from the broad catalogue of missions the European Space Agency operate and support.
 
-### Banking
+### Banking 🏦
 * [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) - UCI
 * [Loan Data Set Classification](https://www.kaggle.com/burak3ergun/loan-data-set) - Burak Ergün (Kaggle)
 * [SNB data portal](https://data.snb.ch/en)
@@ -96,25 +96,25 @@
 ### Bikes 🚲
 * [CitiBike](https://ride.citibikenyc.com/system-data) - citibikenyc.com
 
-### Exchange Rates
+### Exchange Rates 💱
 * [European Central Bank (API)](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion 
    * e.g. https://api.exchangeratesapi.io/2021-02-01, https://api.exchangeratesapi.io/latest?base=USD
 
-### Medical
+### Medical 🏥
 * [CoronaVirus Genome vs ZIKA/MERS/EBOLA](https://www.kaggle.com/nishantbhadauria/coronavirus-genome-vs-zikamersebola) - Comparison of different virus Genome for study
 
-### Social Media
+### Social Media 😎
 * [TED Talks](https://data.world/owentemple/ted-talks-complete-list)
 
-### Trades
+### Trades 🚢
 * [Harmonized System | HS Product Code :tv:](https://www.youtube.com/watch?v=KcwBtVNamwM) - International Trade Administration
 
 
 
-### Telecom
+### Telecom 📞
 * [STC public dataset](https://www.stc.com.sa/wps/wcm/connect/english/individual/campaign/bigdata)
 
-### Dates and Times
+### Dates and Times 📅
 * [Sunrise-Sunset](https://sunrise-sunset.org/) - Check sunrise, sunset, dusk and dawn times for any location in the world!
    * e.g. https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400&date=today
 
