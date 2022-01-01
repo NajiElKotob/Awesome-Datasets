@@ -47,6 +47,9 @@
 * [BigML](https://bigml.com/user/bigml/gallery/datasets)
 * [Microsoft Contoso BI Demo Dataset for Retail Industry](https://www.microsoft.com/en-us/download/details.aspx?id=18279)
 
+## Python Libraries
+* [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
+
 -----
 ### Open Data
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
