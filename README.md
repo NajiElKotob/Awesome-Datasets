@@ -125,6 +125,9 @@
 ### HR
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
 
+### Sport
+* [Sport Rankings](http://www.espn.com/espn/page2/sportSkills) - espn.com
+
 
 -----
 
