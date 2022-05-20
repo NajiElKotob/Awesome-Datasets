@@ -112,7 +112,8 @@
 ### Trades 🚢
 * [Harmonized System | HS Product Code :tv:](https://www.youtube.com/watch?v=KcwBtVNamwM) - International Trade Administration
 
-
+### Weather
+* [Climate Data Online Search](https://www.ncdc.noaa.gov/cdo-web/search) - ncdc.noaa.gov
 
 ### Telecom 📞
 * [STC public dataset](https://www.stc.com.sa/wps/wcm/connect/english/individual/campaign/bigdata)
