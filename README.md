@@ -144,6 +144,8 @@
 ## AWS
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
+## Microsoft
+* [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
 -----
 ## Real-Time Data (RTD)
 * [Meetup RSVPs](http://meetup.github.io/stream/rsvpTicker/)
