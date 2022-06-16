@@ -114,6 +114,7 @@
 
 ### Weather
 * [Climate Data Online Search](https://www.ncdc.noaa.gov/cdo-web/search) - ncdc.noaa.gov
+* [Weather datasets (data.world)](https://data.world/datasets/weather) - data.world
 
 ### Telecom 📞
 * [STC public dataset](https://www.stc.com.sa/wps/wcm/connect/english/individual/campaign/bigdata)
