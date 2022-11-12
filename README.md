@@ -3,10 +3,10 @@
 
 ## Open Data Platforms
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
-* [Data World](https://data.world/) - data.world
+* [Data World](https://data.world/) ⭐ - data.world
 * [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
 * [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
-* [Gapminder](https://www.gapminder.org/data) - gapminder.org
+* [Gapminder](https://www.gapminder.org/data) ⭐ - gapminder.org
 * [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
 * [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
 * [NASA APIs](https://api.nasa.gov/) - nasa.gov
@@ -15,7 +15,7 @@
 * [Open Data Watch](https://opendatawatch.com/) - opendatawatch.com
 * [Our World in Data](https://ourworldindata.org/) - ourworldindata.org
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
-* [The World Bank](http://data.worldbank.org) - worldbank.org
+* [The World Bank](http://data.worldbank.org) ⭐ - worldbank.org
    * [The World Bank Indicator](https://data.worldbank.org/indicator) 
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [UN Data](http://data.un.org) - un.org
