@@ -167,3 +167,4 @@
 ## Articles and References
 * [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
 * [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
+* [List of Industries](https://www.ibisworld.com/united-states/list-of-industries/) - ibisworld.com
