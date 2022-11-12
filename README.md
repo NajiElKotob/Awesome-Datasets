@@ -138,7 +138,7 @@
 * [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
 
 ## Google
-* [Kaggle](https://www.kaggle.com/datasets) - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
+* [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [Google Public Data](https://www.google.com/publicdata/directory)
 
