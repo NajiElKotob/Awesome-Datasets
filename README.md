@@ -63,6 +63,7 @@
 * [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=dateDown&view=table) - Center for Machine Learning and Intelligent Systems :star:
 * [Zayed University Open Data](https://www.zu.ac.ae/main/en/open_data.aspx)
 * [Vanderbilt University](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets) - Department of Biostatistics
+* [Ministry Of Education (KSA)](https://data.gov.sa/Data/en/organization/ministry_of_education) - data.gov.sa
 
 ### Aviation ✈
 * [Open Data documents provided by the UAE GCAA](https://www.gcaa.gov.ae/en/ePublication/Pages/OpenDataLibrary.aspx) - gcaa.gov.ae
