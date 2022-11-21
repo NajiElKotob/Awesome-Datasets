@@ -4,6 +4,7 @@
 ## Open Data Platforms
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
 * [Data World](https://data.world/) ⭐ - data.world
+   * [Data World Datasets](https://data.world/datasets/open-data) - 130K open data datasets
 * [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
 * [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
 * [Gapminder](https://www.gapminder.org/data) ⭐ - gapminder.org
