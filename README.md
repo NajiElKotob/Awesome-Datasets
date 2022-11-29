@@ -109,6 +109,9 @@
 ### Medical 🏥
 * [CoronaVirus Genome vs ZIKA/MERS/EBOLA](https://www.kaggle.com/nishantbhadauria/coronavirus-genome-vs-zikamersebola) - Comparison of different virus Genome for study
 
+### Media
+* [IMDb Datasets](https://www.imdb.com/interfaces/) - imdb.com
+
 ### Social Media 😎
 * [TED Talks](https://data.world/owentemple/ted-talks-complete-list)
 
