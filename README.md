@@ -49,6 +49,7 @@
 * [BigML](https://bigml.com/user/bigml/gallery/datasets)
 * [Microsoft Contoso BI Demo Dataset for Retail Industry](https://www.microsoft.com/en-us/download/details.aspx?id=18279)
 * [Maven Analytics (Data Playground)](https://www.mavenanalytics.io/data-playground) - mavenanalytics.io
+* [OpenDataSoft](https://public.opendatasoft.com/explore/?sort=modified) - opendatasoft.com
 
 ## Python Libraries
 * [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
