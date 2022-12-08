@@ -141,6 +141,10 @@
 
 ### Finance
 * [Yahoo Finance](https://finance.yahoo.com/lookup) - finance.yahoo.com
+
+### Misc.
+* [Database of Arabic Given Names](http://www.kalmasoft.com/KLEX/dbgivnm.htm) - kalmasoft.com
+
 -----
 
 ## UN
@@ -158,6 +162,8 @@
 
 ## Microsoft
 * [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
+
+
 -----
 ## Real-Time Data (RTD)
 * [Meetup RSVPs](http://meetup.github.io/stream/rsvpTicker/)
