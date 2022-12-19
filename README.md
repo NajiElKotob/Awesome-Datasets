@@ -138,6 +138,7 @@
 
 ### Sport
 * [Sport Rankings](http://www.espn.com/espn/page2/sportSkills) - espn.com
+* [The FIFA 2022 CSV Dataset](https://sports-statistics.com/soccer/fifa-2022-dataset-csvs/) - sports-statistics.com
 
 ### Finance
 * [Yahoo Finance](https://finance.yahoo.com/lookup) - finance.yahoo.com
