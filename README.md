@@ -176,6 +176,7 @@
 * [Generate test data - JSON](http://www.databasetestdata.com) - databasetestdata.com
 * [Generate Data](https://www.generatedata.com) - generatedata.com provides a quick and simple way to let you generate large volumes of custom data in whatever format you require.
 * [DataFairy](https://devskiller.com/datafairy/) - devskiller.com/datafairy
+* [Contoso Data Generator](https://github.com/sql-bi/Contoso-Data-Generator/releases/tag/v1.1.0) - github.com/sql-bi
 
 ## Law and Regulations
 * [EU data protection rules](https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en)
