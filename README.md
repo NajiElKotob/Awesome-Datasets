@@ -13,7 +13,7 @@
 * [NASA APIs](https://api.nasa.gov/) - nasa.gov
 * [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
-* [Open Data Watch](https://opendatawatch.com/) - opendatawatch.com
+* [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
 * [Our World in Data](https://ourworldindata.org/) - ourworldindata.org
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
 * [The World Bank](http://data.worldbank.org) ⭐ - worldbank.org
