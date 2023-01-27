@@ -192,3 +192,4 @@
 
 ## GitHub
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem. 
