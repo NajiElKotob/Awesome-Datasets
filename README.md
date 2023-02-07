@@ -14,7 +14,7 @@
 * [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
-* [Our World in Data](https://ourworldindata.org/) - ourworldindata.org
+* [Our World in Data](https://ourworldindata.org/charts) 🌟 - ourworldindata.org
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
 * [The World Bank](http://data.worldbank.org) ⭐ - worldbank.org
    * [The World Bank Indicator](https://data.worldbank.org/indicator) 
