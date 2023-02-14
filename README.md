@@ -6,7 +6,7 @@
 * [Data World](https://data.world/) ⭐ - data.world
    * [Data World Datasets](https://data.world/datasets/open-data) - 130K open data datasets
 * [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
-* [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
+* [NASA Datasets and Images](https://data.giss.nasa.gov/)
 * [Gapminder](https://www.gapminder.org/data) ⭐ - gapminder.org
 * [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
 * [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
@@ -29,6 +29,8 @@
 * [Cambridge Open Data](https://data.cambridgema.gov/)
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb | 
 * [IMF](https://data.imf.org/) - data.imf.org
+* [Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset) - Find, share and use humanitarian data all in one place
+* [Google Dataset Search](https://datasetsearch.research.google.com) - google search for datasets
 
 ## Datasets
 * [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
@@ -60,7 +62,15 @@
 ### Open Data
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
 * [Saudi Open Data portal](https://www.data.gov.sa/) - data.gov.sa
-* [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
+* [EU Open Data Portal](https://data.europa.eu/) - data.europa.eu
+  * [Eurostat Database Tree](https://ec.europa.eu/eurostat/web/main/data/database) - a more refined EU data tree
+
+### Knowledge Bases
+
+* [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) - world's largest structured knowledge base of edited & peer-reviewed data
+* [DBPedia](https://www.dbpedia.org/resources/) - alt. to wikidata built on extracting knowledge from Wikipedia, Wikidata and Wikimedia Commons to make available as Linked Open Data.
+* [YAGO](https://yago-knowledge.org) - high-quality knowledge base (at a more approachable scale)
+* [BabelNet](https://babelnet.org) - linguistic linked open data cloud
 
 -----
 
@@ -69,6 +79,10 @@
 * [Zayed University Open Data](https://www.zu.ac.ae/main/en/open_data.aspx)
 * [Vanderbilt University](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets) - Department of Biostatistics
 * [Ministry Of Education (KSA)](https://data.gov.sa/Data/en/organization/ministry_of_education) - data.gov.sa
+
+### Biology 🧬
+
+* [bioregistry](https://bioregistry.io) - bioregistry.io
 
 ### Aviation ✈
 * [Open Data documents provided by the UAE GCAA](https://www.gcaa.gov.ae/en/ePublication/Pages/OpenDataLibrary.aspx) - gcaa.gov.ae
@@ -114,6 +128,7 @@
 
 ### Media
 * [IMDb Datasets](https://www.imdb.com/interfaces/) - imdb.com
+* [TMDb Database](https://www.themoviedb.org/) - themoviedb.org
 
 ### Social Media 😎
 * [TED Talks](https://data.world/owentemple/ted-talks-complete-list)
@@ -156,9 +171,11 @@
 * [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
 
 ## Google
+* [Dataset Search](https://datasetsearch.research.google.com)
 * [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [Google Public Data](https://www.google.com/publicdata/directory)
+* [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog) - variety of standard Earth science raster datasets
 
 ## AWS
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
