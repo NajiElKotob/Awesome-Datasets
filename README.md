@@ -1,36 +1,36 @@
 # Awesome Open Datasets
 
-
 ## Open Data Platforms
+
+* [Google Dataset Search](https://datasetsearch.research.google.com) - google search for datasets
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
 * [Data World](https://data.world/) ⭐ - data.world
-   * [Data World Datasets](https://data.world/datasets/open-data) - 130K open data datasets
+  * [Data World Datasets](https://data.world/datasets/open-data) - 130K open data datasets
+* [The World Bank](http://data.worldbank.org) ⭐ - worldbank.org
+  * [The World Bank Indicator](https://data.worldbank.org/indicator)
 * [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
-* [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
+* [Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset) - Find, share and use humanitarian data all in one place
+* NASA - [Open Data Portal](https://data.nasa.gov/browse) - [Datasets & images](https://data.giss.nasa.gov/) - [APIs](https://api.nasa.gov/)
 * [Gapminder](https://www.gapminder.org/data) ⭐ - gapminder.org
-* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
+* [IBM Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
 * [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
-* [NASA APIs](https://api.nasa.gov/) - nasa.gov
-* [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
-* [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
 * [Our World in Data](https://ourworldindata.org/charts) 🌟 - ourworldindata.org
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
-* [The World Bank](http://data.worldbank.org) ⭐ - worldbank.org
-   * [The World Bank Indicator](https://data.worldbank.org/indicator) 
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [UN Data](http://data.un.org) - un.org
 * [United Nations Conference on Trade and Development](https://unctadstat.unctad.org/) - unctad.org
-* [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
+* [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics)
 * [FAOSTAT](http://www.fao.org/faostat/en/#data) - fao.org
 * [OpenEI](https://openei.org/wiki/Data) - OpenEI openei.org is a trusted source of energy data
 * [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 * [ENERGYDATA.INFO](https://energydata.info/) - energydata.info (Open Data and analytics for a sustainable energy future)
-* [Cambridge Open Data](https://data.cambridgema.gov/)
-* [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb | 
+* [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb |
 * [IMF](https://data.imf.org/) - data.imf.org
 
-## Datasets
+## Highlighted Datasets
+
 * [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
 * [Ready PBIX Datasets](https://github.com/NajiElKotob/Awesome-Power-BI/tree/master/Datasets) :boom:
 * [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
@@ -40,7 +40,7 @@
 * [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
 * [OpenML](https://www.openml.org) - Find or add data to analyse
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
-* [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight 
+* [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 * [Divvy Data](https://www.divvybikes.com/system-data) - Historical trip data available to the public
 * [Liban Data](https://www.libandata.org/ar)
 * [Earthquake](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) - USGS
@@ -54,27 +54,48 @@
 * [Sustainable Development Report](https://dashboards.sdgindex.org/) - sdgindex.org
 
 ## Python Libraries
+
 * [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
 
 -----
-### Open Data
-* [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
+
+### Local Government Open Data Portals
+
+* [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
+* [Open Data DC](https://opendata.dc.gov/) - dc.gov
+* [Cambridge Open Data](https://data.cambridgema.gov/)
+* [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse
 * [Saudi Open Data portal](https://www.data.gov.sa/) - data.gov.sa
-* [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
+* [EU Open Data Portal](https://data.europa.eu/) - data.europa.eu
+  * [Eurostat Database Tree](https://ec.europa.eu/eurostat/web/main/data/database) - a more refined EU data tree
+
+### Knowledge Bases
+
+* [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) - world's largest structured knowledge base of edited & peer-reviewed data
+* [DBPedia](https://www.dbpedia.org/resources/) - alt. to wikidata built on extracting knowledge from Wikipedia, Wikidata and Wikimedia Commons to make available as Linked Open Data.
+* [YAGO](https://yago-knowledge.org) - high-quality knowledge base (at a more approachable scale)
+* [BabelNet](https://babelnet.org) - linguistic linked open data cloud
 
 -----
 
 ### Edu 🏫
+
 * [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=dateDown&view=table) - Center for Machine Learning and Intelligent Systems :star:
 * [Zayed University Open Data](https://www.zu.ac.ae/main/en/open_data.aspx)
 * [Vanderbilt University](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets) - Department of Biostatistics
 * [Ministry Of Education (KSA)](https://data.gov.sa/Data/en/organization/ministry_of_education) - data.gov.sa
 
+### Biology 🧬
+
+* [bioregistry](https://bioregistry.io) - bioregistry.io
+
 ### Aviation ✈
+
 * [Open Data documents provided by the UAE GCAA](https://www.gcaa.gov.ae/en/ePublication/Pages/OpenDataLibrary.aspx) - gcaa.gov.ae
 * [General Authority of Civil Aviation](http://data.bayanat.ae/en_GB/organization/general-authority-of-civil-aviation) - data.bayanat.ae
 
 ### Oil and Gas ⛽
+
 * [Bayanat (Oil)](http://data.bayanat.ae/en_GB/dataset?tags=oil) - bayanat.ae
 * [Data World (Oil and Gas)](https://data.world/search?context=community&q=oil&tags=oil&tags=gas&type=all) - Data World
 * [IEA Oil Information Statistics](https://www.oecd-ilibrary.org/energy/data/iea-oil-information-statistics_oil-data-en) - OECD
@@ -83,113 +104,145 @@
 * [Energy and Water](https://www.scad.gov.ae/en/pages/statistics.aspx?topicid=14) - Statistic Centre Abu Dhabi
 * [Brent crude and WTI oil prices from US EIA](https://github.com/datasets/oil-prices) - github.com/datasets
 * Tableau Gallery
-    * [World Oil Use and Reserves](https://www.tableau.com/solutions/gallery/oil-import-and-export)
-    * [Worldwide Fuel Consumption](https://www.tableau.com/solutions/gallery/worldwide-oil-usage)
-    * [Worldwide Oil Rigs](https://www.tableau.com/solutions/gallery/worldwide-oil-rigs)
+  * [World Oil Use and Reserves](https://www.tableau.com/solutions/gallery/oil-import-and-export)
+  * [Worldwide Fuel Consumption](https://www.tableau.com/solutions/gallery/worldwide-oil-usage)
+  * [Worldwide Oil Rigs](https://www.tableau.com/solutions/gallery/worldwide-oil-rigs)
 
 ### Aluminum
+
 * [International Aluminium Institute](https://international-aluminium.org/statistics/) - international-aluminium.org
 
 ### Health
+
 * [COVID-19 Dataset by Our World in Data](https://github.com/owid/covid-19-data) 🦠 - ourworldindata.org
 * [Centers for Disease Control and Prevention](https://data.cdc.gov) - data.cdc.gov
 
 ### Satellite 🛰
+
 * [Earth Online (European Space Agency)](https://earth.esa.int/eogateway/search?skipDetection=true&text=&category=Data) - Discover and download the Earth observation data you need from the broad catalogue of missions the European Space Agency operate and support.
 
 ### Banking 🏦
+
 * [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) - UCI
 * [Loan Data Set Classification](https://www.kaggle.com/burak3ergun/loan-data-set) - Burak Ergün (Kaggle)
 * [SNB data portal](https://data.snb.ch/en)
 
 ### Bikes 🚲
+
 * [CitiBike](https://ride.citibikenyc.com/system-data) - citibikenyc.com
 
 ### Exchange Rates 💱
-* [European Central Bank (API)](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion 
-   * e.g. https://api.exchangeratesapi.io/2021-02-01, https://api.exchangeratesapi.io/latest?base=USD
+
+* [European Central Bank (API)](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion
+  * e.g. <https://api.exchangeratesapi.io/2021-02-01>, <https://api.exchangeratesapi.io/latest?base=USD>
 
 ### Medical 🏥
+
 * [CoronaVirus Genome vs ZIKA/MERS/EBOLA](https://www.kaggle.com/nishantbhadauria/coronavirus-genome-vs-zikamersebola) - Comparison of different virus Genome for study
 
 ### Media
+
 * [IMDb Datasets](https://www.imdb.com/interfaces/) - imdb.com
+* [TMDb Database](https://www.themoviedb.org/) - themoviedb.org
 
 ### Social Media 😎
+
 * [TED Talks](https://data.world/owentemple/ted-talks-complete-list)
 
 ### Trades 🚢
+
 * [Harmonized System | HS Product Code :tv:](https://www.youtube.com/watch?v=KcwBtVNamwM) - International Trade Administration
 
 ### Weather
+
 * [Climate Data Online Search](https://www.ncdc.noaa.gov/cdo-web/search) - ncdc.noaa.gov
 * [Weather datasets (data.world)](https://data.world/datasets/weather) - data.world
 
 ### Telecom 📞
+
 * [STC public dataset](https://www.stc.com.sa/wps/wcm/connect/english/individual/campaign/bigdata)
 
 ### Dates and Times 📅
+
 * [Sunrise-Sunset](https://sunrise-sunset.org/) - Check sunrise, sunset, dusk and dawn times for any location in the world!
-   * e.g. https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400&date=today
+  * e.g. https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400&date=today
 
 ### HR
+
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
 
 ### Airbnb
+
 * [Inside Airbnb](http://insideairbnb.com/get-the-data/) - insideairbnb.com
 
 ### Sport
+
 * [Sport Rankings](http://www.espn.com/espn/page2/sportSkills) - espn.com
 * [The FIFA 2022 CSV Dataset](https://sports-statistics.com/soccer/fifa-2022-dataset-csvs/) - sports-statistics.com
 
 ### Finance
+
 * [Yahoo Finance](https://finance.yahoo.com/lookup) - finance.yahoo.com
 
-### Misc.
+### Misc
+
 * [Database of Arabic Given Names](http://www.kalmasoft.com/KLEX/dbgivnm.htm) - kalmasoft.com
 
 -----
 
 ## UN
+
 * [UN Comtrade Database](https://comtrade.un.org/data)
-   * [UN Comtrade Reference Tables](https://unstats.un.org/unsd/tradekb/Knowledgebase/50039/UN-Comtrade-Reference-Tables)
+  * [UN Comtrade Reference Tables](https://unstats.un.org/unsd/tradekb/Knowledgebase/50039/UN-Comtrade-Reference-Tables)
 * [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
 
 ## Google
+
+* [Dataset Search](https://datasetsearch.research.google.com)
 * [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [Google Public Data](https://www.google.com/publicdata/directory)
+* [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog) - variety of standard Earth science raster datasets
 
 ## AWS
+
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
 ## Microsoft
+
 * [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
 
-
 -----
+
 ## Real-Time Data (RTD)
+
 * [Meetup RSVPs](http://meetup.github.io/stream/rsvpTicker/)
 * [Real-Time Traffic Speed Data (NYC OpenData)](https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/qkm5-nuaq) - cityofnewyork.us
+
 -----
 
 ## Database Generator
+
 * [Generate test data - JSON](http://www.databasetestdata.com) - databasetestdata.com
 * [Generate Data](https://www.generatedata.com) - generatedata.com provides a quick and simple way to let you generate large volumes of custom data in whatever format you require.
 * [DataFairy](https://devskiller.com/datafairy/) - devskiller.com/datafairy
 * [Contoso Data Generator](https://github.com/sql-bi/Contoso-Data-Generator/releases/tag/v1.1.0) - github.com/sql-bi
 
 ## Law and Regulations
+
 * [EU data protection rules](https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en)
-* [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) 
+* [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
 * [GDPR](https://gdpr-info.eu/) - General Data Protection Regulation
 
-----
+-----
+
 ## Articles and References
+
 * [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
 * [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 * [List of Industries](https://www.ibisworld.com/united-states/list-of-industries/) - ibisworld.com
 
 ## GitHub
+
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-* [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem. 
+* [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
