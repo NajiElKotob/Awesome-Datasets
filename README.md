@@ -43,7 +43,6 @@
 * [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight 
 * [Divvy Data](https://www.divvybikes.com/system-data) - Historical trip data available to the public
 * [Liban Data](https://www.libandata.org/ar)
-* [Earthquake](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) - USGS
 * [The National Longitudinal Study of Adolescent to Adult Health (Add Health)](https://addhealth.cpc.unc.edu/)
 * [National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) - III](https://healthdata.gov/dataset/national-epidemiologic-survey-alcohol-and-related-conditions-nesarc-iii)
 * [Mars Crater Catalog v1 Robbins](https://astrogeology.usgs.gov/search/details/Mars/Research/Craters/RobbinsCraterDatabase_20120821/zip)
@@ -71,6 +70,7 @@
 * [Ministry Of Education (KSA)](https://data.gov.sa/Data/en/organization/ministry_of_education) - data.gov.sa
 
 ### Earthquake
+* [Earthquake Hazards](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) - earthquake.usgs.gov | USGS
 * [Significant Earthquake Database](https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/table/) - opendatasoft.com
 
 ### Aviation ✈
