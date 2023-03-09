@@ -51,6 +51,7 @@
 * [Maven Analytics (Data Playground)](https://www.mavenanalytics.io/data-playground) - mavenanalytics.io
 * [OpenDataSoft](https://public.opendatasoft.com/explore/?sort=modified) - opendatasoft.com
 * [Sustainable Development Report](https://dashboards.sdgindex.org/) - sdgindex.org
+* [Tableau's Sample Data](https://public.tableau.com/app/resources/sample-data) - public.tableau.com
 
 ## Python Libraries
 * [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
