@@ -86,6 +86,7 @@
 * [U.S. Energy Information Administration](https://www.eia.gov/petroleum/data.php) - Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.
 * [Energy and Water](https://www.scad.gov.ae/en/pages/statistics.aspx?topicid=14) - Statistic Centre Abu Dhabi
 * [Brent crude and WTI oil prices from US EIA](https://github.com/datasets/oil-prices) - github.com/datasets
+* [Oil and Gas - Oman](https://data.gov.om/OMOLGS2016/oil-and-gas) - data.gov.om
 * Tableau Gallery
     * [World Oil Use and Reserves](https://www.tableau.com/solutions/gallery/oil-import-and-export)
     * [Worldwide Fuel Consumption](https://www.tableau.com/solutions/gallery/worldwide-oil-usage)
