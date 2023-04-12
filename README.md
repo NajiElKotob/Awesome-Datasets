@@ -107,6 +107,9 @@
 * [Loan Data Set Classification](https://www.kaggle.com/burak3ergun/loan-data-set) - Burak Ergün (Kaggle)
 * [SNB data portal](https://data.snb.ch/en)
 
+### Investment
+* [Warren Buffett's Portfolio](https://www.sjdataviz.com/search?q=Warren+Buffett)
+
 ### Bikes 🚲
 * [CitiBike](https://ride.citibikenyc.com/system-data) - citibikenyc.com
 
