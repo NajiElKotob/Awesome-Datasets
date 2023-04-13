@@ -145,6 +145,7 @@
 
 ### Airbnb
 * [Inside Airbnb](http://insideairbnb.com/get-the-data/) - insideairbnb.com
+* [Airbnb - Listings](https://public.opendatasoft.com/explore/dataset/airbnb-listings/information/?disjunctive.host_verifications&disjunctive.amenities&disjunctive.features) - opendatasoft.com
 
 ### Sport
 * [Sport Rankings](http://www.espn.com/espn/page2/sportSkills) - espn.com
