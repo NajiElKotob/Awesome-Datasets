@@ -153,6 +153,7 @@
 
 ### Finance
 * [Yahoo Finance](https://finance.yahoo.com/lookup) - finance.yahoo.com
+* [WSJ Market Data](https://www.wsj.com/market-data) - wsj.com
 
 ### Misc.
 * [Database of Arabic Given Names](http://www.kalmasoft.com/KLEX/dbgivnm.htm) - kalmasoft.com
