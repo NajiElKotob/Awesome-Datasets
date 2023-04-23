@@ -143,9 +143,14 @@
 ### HR
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
 
-### Airbnb
+### Real Estate
+#### General
+* [Residential property prices](https://www.bis.org/statistics/pp_selected.htm) - bis.org
+
+#### Airbnb
 * [Inside Airbnb](http://insideairbnb.com/get-the-data/) - insideairbnb.com
 * [Airbnb - Listings](https://public.opendatasoft.com/explore/dataset/airbnb-listings/information/?disjunctive.host_verifications&disjunctive.amenities&disjunctive.features) - opendatasoft.com
+
 
 ### Sport
 * [Sport Rankings](http://www.espn.com/espn/page2/sportSkills) - espn.com
@@ -157,6 +162,7 @@
 
 ### Misc.
 * [Database of Arabic Given Names](http://www.kalmasoft.com/KLEX/dbgivnm.htm) - kalmasoft.com
+
 
 -----
 
