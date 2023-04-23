@@ -146,6 +146,7 @@
 ### Real Estate
 #### General
 * [Residential property prices](https://www.bis.org/statistics/pp_selected.htm) - bis.org
+* [Residential Property Prices for United Arab Emirates](https://fred.stlouisfed.org/series/QAEN628BIS) - fred.stlouisfed.org
 
 #### Airbnb
 * [Inside Airbnb](http://insideairbnb.com/get-the-data/) - insideairbnb.com
