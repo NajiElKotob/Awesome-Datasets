@@ -110,6 +110,9 @@
 ### Investment
 * [Warren Buffett's Portfolio](https://www.sjdataviz.com/search?q=Warren+Buffett)
 
+### Sales
+* [Adidas Sales Dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset) - Adidas Sales in United States
+
 ### Bikes 🚲
 * [CitiBike](https://ride.citibikenyc.com/system-data) - citibikenyc.com
 
