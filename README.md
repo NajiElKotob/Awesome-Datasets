@@ -109,6 +109,8 @@
 
 ### Investment
 * [Warren Buffett's Portfolio](https://www.sjdataviz.com/search?q=Warren+Buffett)
+* [Capital Market Authority (CMA)](https://opendata.cma.org.sa/en/Pages/default.aspx) - cma.org.sa
+
 
 ### Sales
 * [Adidas Sales Dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset) - Adidas Sales in United States
