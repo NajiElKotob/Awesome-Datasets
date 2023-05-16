@@ -53,6 +53,13 @@
 * [Sustainable Development Report](https://dashboards.sdgindex.org/) - sdgindex.org
 * [Tableau's Sample Data](https://public.tableau.com/app/resources/sample-data) - public.tableau.com
 
+-----
+
+## Countries
+* [UAE](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
+
+-----
+
 ## Python Libraries
 * [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
 
