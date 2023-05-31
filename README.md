@@ -58,6 +58,7 @@
 ## Countries
 ### UAE
 * [UAE](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
+* [Real Estate (UAE)](https://dubailand.gov.ae/en/open-data/real-estate-data/) - dubailand.gov.ae
 
 ### KSA (Kingdom of Saudi Arabia)
 * [General Authority for Statistics](https://www.stats.gov.sa/) - stats.gov.sa
