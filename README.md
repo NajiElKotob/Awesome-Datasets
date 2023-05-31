@@ -56,7 +56,11 @@
 -----
 
 ## Countries
+### UAE
 * [UAE](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
+
+### KSA (Kingdom of Saudi Arabia)
+* [General Authority for Statistics](https://www.stats.gov.sa/) - stats.gov.sa
 
 -----
 
