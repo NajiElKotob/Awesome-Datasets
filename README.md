@@ -29,6 +29,9 @@
 * [Cambridge Open Data](https://data.cambridgema.gov/)
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb | 
 * [IMF](https://data.imf.org/) - data.imf.org
+* [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
+
+
 
 ## Datasets
 * [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
