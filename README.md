@@ -51,7 +51,7 @@
 * [Mars Crater Catalog v1 Robbins](https://astrogeology.usgs.gov/search/details/Mars/Research/Craters/RobbinsCraterDatabase_20120821/zip)
 * [BigML](https://bigml.com/user/bigml/gallery/datasets)
 * [Microsoft Contoso BI Demo Dataset for Retail Industry](https://www.microsoft.com/en-us/download/details.aspx?id=18279)
-* [Maven Analytics (Data Playground)](https://www.mavenanalytics.io/data-playground) - mavenanalytics.io
+* [Maven Analytics (Data Playground)](https://www.mavenanalytics.io/data-playground) 🌟 - mavenanalytics.io
 * [OpenDataSoft](https://public.opendatasoft.com/explore/?sort=modified) - opendatasoft.com
 * [Sustainable Development Report](https://dashboards.sdgindex.org/) - sdgindex.org
 * [Tableau's Sample Data](https://public.tableau.com/app/resources/sample-data) - public.tableau.com
