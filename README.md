@@ -93,6 +93,9 @@
 * [Open Data documents provided by the UAE GCAA](https://www.gcaa.gov.ae/en/ePublication/Pages/OpenDataLibrary.aspx) - gcaa.gov.ae
 * [General Authority of Civil Aviation](http://data.bayanat.ae/en_GB/organization/general-authority-of-civil-aviation) - data.bayanat.ae
 
+### Geography
+* [Country Information](https://www.ip2location.com/free/country-information) - ip2location.com
+
 ### Oil and Gas ⛽
 * [Bayanat (Oil)](http://data.bayanat.ae/en_GB/dataset?tags=oil) - bayanat.ae
 * [Data World (Oil and Gas)](https://data.world/search?context=community&q=oil&tags=oil&tags=gas&type=all) - Data World
