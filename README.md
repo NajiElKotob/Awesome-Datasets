@@ -95,6 +95,7 @@
 
 ### Geography
 * [Country Information](https://www.ip2location.com/free/country-information) - ip2location.com
+* [UN-LOCODE Codelist](https://datahub.io/core/un-locode#data) - datahub.io
 
 ### Oil and Gas ⛽
 * [Bayanat (Oil)](http://data.bayanat.ae/en_GB/dataset?tags=oil) - bayanat.ae
