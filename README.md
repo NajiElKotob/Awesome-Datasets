@@ -107,6 +107,7 @@
 * [Energy and Water](https://www.scad.gov.ae/en/pages/statistics.aspx?topicid=14) - Statistic Centre Abu Dhabi
 * [Brent crude and WTI oil prices from US EIA](https://github.com/datasets/oil-prices) - github.com/datasets
 * [Oil and Gas - Oman](https://data.gov.om/OMOLGS2016/oil-and-gas) - data.gov.om
+* [Statistical Review of World Energy](https://www.energyinst.org/statistical-review) - energyinst.org
 * Tableau Gallery
     * [World Oil Use and Reserves](https://www.tableau.com/solutions/gallery/oil-import-and-export)
     * [Worldwide Fuel Consumption](https://www.tableau.com/solutions/gallery/worldwide-oil-usage)
