@@ -11,7 +11,6 @@
 * [Gapminder](https://www.gapminder.org/data) ⭐ - gapminder.org
 * [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
 * [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
-* [NASA APIs](https://api.nasa.gov/) - nasa.gov
 * [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
@@ -40,6 +39,13 @@
    * [UN Comtrade Reference Tables](https://unstats.un.org/unsd/tradekb/Knowledgebase/50039/UN-Comtrade-Reference-Tables)
 * [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
 
+### NASA
+* [NASA APIs](https://api.nasa.gov/) - nasa.gov
+
+### Microsoft
+* [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
+* [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
+
 ### Google
 * [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
@@ -48,10 +54,6 @@
 ### AWS
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
-### Microsoft
-* [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
-* [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
-  
 -----
 
 ## Datasets
