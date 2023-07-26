@@ -31,7 +31,10 @@
 * [IMF](https://data.imf.org/) - data.imf.org
 * [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
 
+### [World Bank](https://worldbank.org)
+* [World Bank Group country classifications by income level for FY24](https://blogs.worldbank.org/opendata/new-world-bank-group-country-classifications-income-level-fy24)
 
+-----
 
 ## Datasets
 * [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
