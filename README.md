@@ -65,20 +65,21 @@
 ### UAE
 * [UAE](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
 * [Real Estate (UAE)](https://dubailand.gov.ae/en/open-data/real-estate-data/) - dubailand.gov.ae
+* [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse
+
 
 ### KSA (Kingdom of Saudi Arabia)
 * [General Authority for Statistics](https://www.stats.gov.sa/) - stats.gov.sa
+* [Saudi Open Data portal](https://www.data.gov.sa/) - data.gov.sa
 
+### EU
+* [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
+  
 -----
 
 ## Python Libraries
 * [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
 
------
-### Open Data
-* [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
-* [Saudi Open Data portal](https://www.data.gov.sa/) - data.gov.sa
-* [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
 
 -----
 
