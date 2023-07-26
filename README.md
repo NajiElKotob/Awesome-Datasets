@@ -16,8 +16,6 @@
 * [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
 * [Our World in Data](https://ourworldindata.org/charts) 🌟 - ourworldindata.org
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
-* [The World Bank](http://data.worldbank.org) ⭐ - worldbank.org
-   * [The World Bank Indicator](https://data.worldbank.org/indicator) 
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [UN Data](http://data.un.org) - un.org
 * [United Nations Conference on Trade and Development](https://unctadstat.unctad.org/) - unctad.org
@@ -31,7 +29,9 @@
 * [IMF](https://data.imf.org/) - data.imf.org
 * [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
 
-### [World Bank](https://worldbank.org)
+### World Bank
+* [World Bank Open Data](http://data.worldbank.org) ⭐ - worldbank.org
+* [The World Bank Indicator](https://data.worldbank.org/indicator) 
 * [World Bank Group country classifications by income level for FY24](https://blogs.worldbank.org/opendata/new-world-bank-group-country-classifications-income-level-fy24)
 
 -----
