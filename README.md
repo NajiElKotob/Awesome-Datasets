@@ -2,7 +2,8 @@
 
 
 ## Open Data Platforms
-* [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
+### General
+
 * [Data World](https://data.world/) ⭐ - data.world
    * [Data World Datasets](https://data.world/datasets/open-data) - 130K open data datasets
 * [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
@@ -34,6 +35,23 @@
 * [The World Bank Indicator](https://data.worldbank.org/indicator) 
 * [World Bank Group country classifications by income level for FY24](https://blogs.worldbank.org/opendata/new-world-bank-group-country-classifications-income-level-fy24)
 
+### UN
+* [UN Comtrade Database](https://comtrade.un.org/data)
+   * [UN Comtrade Reference Tables](https://unstats.un.org/unsd/tradekb/Knowledgebase/50039/UN-Comtrade-Reference-Tables)
+* [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
+
+### Google
+* [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
+* [Open Datasets](https://ai.google/tools/datasets) - Google AI
+* [Google Public Data](https://www.google.com/publicdata/directory)
+
+### AWS
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
+
+### Microsoft
+* [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
+* [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
+  
 -----
 
 ## Datasets
@@ -193,25 +211,6 @@
 
 ### Misc.
 * [Database of Arabic Given Names](http://www.kalmasoft.com/KLEX/dbgivnm.htm) - kalmasoft.com
-
-
------
-
-## UN
-* [UN Comtrade Database](https://comtrade.un.org/data)
-   * [UN Comtrade Reference Tables](https://unstats.un.org/unsd/tradekb/Knowledgebase/50039/UN-Comtrade-Reference-Tables)
-* [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
-
-## Google
-* [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
-* [Open Datasets](https://ai.google/tools/datasets) - Google AI
-* [Google Public Data](https://www.google.com/publicdata/directory)
-
-## AWS
-* [Registry of Open Data on AWS](https://registry.opendata.aws/)
-
-## Microsoft
-* [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
 
 
 -----
