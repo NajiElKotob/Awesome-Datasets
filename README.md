@@ -9,7 +9,6 @@
 * [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
 * [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
 * [Gapminder](https://www.gapminder.org/data) ⭐ - gapminder.org
-* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
 * [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
 * [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
@@ -17,13 +16,11 @@
 * [Our World in Data](https://ourworldindata.org/charts) 🌟 - ourworldindata.org
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
-* [UN Data](http://data.un.org) - un.org
 * [United Nations Conference on Trade and Development](https://unctadstat.unctad.org/) - unctad.org
 * [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
 * [FAOSTAT](http://www.fao.org/faostat/en/#data) - fao.org
 * [OpenEI](https://openei.org/wiki/Data) - OpenEI openei.org is a trusted source of energy data
 * [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
-* [ENERGYDATA.INFO](https://energydata.info/) - energydata.info (Open Data and analytics for a sustainable energy future)
 * [Cambridge Open Data](https://data.cambridgema.gov/)
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb | 
 * [IMF](https://data.imf.org/) - data.imf.org
@@ -35,10 +32,12 @@
 * [World Bank Group country classifications by income level for FY24](https://blogs.worldbank.org/opendata/new-world-bank-group-country-classifications-income-level-fy24)
 
 ### UN
+* [UN Data](http://data.un.org) - un.org
 * [UN Comtrade Database](https://comtrade.un.org/data)
    * [UN Comtrade Reference Tables](https://unstats.un.org/unsd/tradekb/Knowledgebase/50039/UN-Comtrade-Reference-Tables)
 * [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
 
+  
 ### NASA
 * [NASA APIs](https://api.nasa.gov/) - nasa.gov
 
@@ -51,6 +50,9 @@
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [Google Public Data](https://www.google.com/publicdata/directory)
 
+### IBM
+* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
+  
 ### AWS
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
@@ -179,6 +181,9 @@
 ### Trades 🚢
 * [Harmonized System | HS Product Code :tv:](https://www.youtube.com/watch?v=KcwBtVNamwM) - International Trade Administration
 
+### Energy
+* [ENERGYDATA.INFO](https://energydata.info/) - energydata.info | Open Data and analytics for a sustainable energy future
+  
 ### Weather
 * [Climate Data Online Search](https://www.ncdc.noaa.gov/cdo-web/search) - ncdc.noaa.gov
 * [Weather datasets (data.world)](https://data.world/datasets/weather) - data.world
@@ -192,6 +197,9 @@
 
 ### HR
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
+
+
+-----
 
 ### Real Estate
 #### General
