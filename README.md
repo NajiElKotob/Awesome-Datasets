@@ -19,11 +19,9 @@
 * [United Nations Conference on Trade and Development](https://unctadstat.unctad.org/) - unctad.org
 * [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
 * [FAOSTAT](http://www.fao.org/faostat/en/#data) - fao.org
-* [OpenEI](https://openei.org/wiki/Data) - OpenEI openei.org is a trusted source of energy data
 * [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 * [Cambridge Open Data](https://data.cambridgema.gov/)
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb | 
-* [IMF](https://data.imf.org/) - data.imf.org
 * [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
 
 ### World Bank
@@ -31,6 +29,9 @@
 * [The World Bank Indicator](https://data.worldbank.org/indicator) 
 * [World Bank Group country classifications by income level for FY24](https://blogs.worldbank.org/opendata/new-world-bank-group-country-classifications-income-level-fy24)
 
+### IMF
+* [IMF](https://data.imf.org/) - data.imf.org
+  
 ### UN
 * [UN Data](http://data.un.org) - un.org
 * [UN Comtrade Database](https://comtrade.un.org/data)
@@ -181,9 +182,10 @@
 ### Trades 🚢
 * [Harmonized System | HS Product Code :tv:](https://www.youtube.com/watch?v=KcwBtVNamwM) - International Trade Administration
 
-### Energy
+### Energy ⚡
 * [ENERGYDATA.INFO](https://energydata.info/) - energydata.info | Open Data and analytics for a sustainable energy future
-  
+* [OpenEI](https://openei.org/wiki/Data) - OpenEI openei.org is a trusted source of energy data
+    
 ### Weather
 * [Climate Data Online Search](https://www.ncdc.noaa.gov/cdo-web/search) - ncdc.noaa.gov
 * [Weather datasets (data.world)](https://data.world/datasets/weather) - data.world
@@ -198,8 +200,6 @@
 ### HR
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
 
-
------
 
 ### Real Estate
 #### General
@@ -227,6 +227,8 @@
 ## Real-Time Data (RTD)
 * [Meetup RSVPs](http://meetup.github.io/stream/rsvpTicker/)
 * [Real-Time Traffic Speed Data (NYC OpenData)](https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/qkm5-nuaq) - cityofnewyork.us
+
+  
 -----
 
 ## Database Generator
