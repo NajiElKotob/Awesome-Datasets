@@ -103,6 +103,11 @@
 ## Python Libraries
 * [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
 
+## GitHub
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
+* [Small data analysis and viz projects](https://github.com/Lisa-Ho/small-data-projects)
+
 
 -----
 
@@ -249,6 +254,4 @@
 * [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 * [List of Industries](https://www.ibisworld.com/united-states/list-of-industries/) - ibisworld.com
 
-## GitHub
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-* [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem. 
+
