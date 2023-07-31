@@ -94,6 +94,7 @@
 ### KSA (Kingdom of Saudi Arabia)
 * [General Authority for Statistics](https://www.stats.gov.sa/) - stats.gov.sa
 * [Saudi Open Data portal](https://www.data.gov.sa/) - data.gov.sa
+* [Capital Market Authority](https://od.data.gov.sa/Data/en/organization/capital_market_authority) - od.data.gov.sa
 
 ### EU
 * [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
