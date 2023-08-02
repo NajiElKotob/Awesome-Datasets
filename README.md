@@ -117,6 +117,7 @@
 * [Zayed University Open Data](https://www.zu.ac.ae/main/en/open_data.aspx)
 * [Vanderbilt University](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets) - Department of Biostatistics
 * [Ministry Of Education (KSA)](https://data.gov.sa/Data/en/organization/ministry_of_education) - data.gov.sa
+* [World University Rankings 2023](https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking#!/length/-1/sort_by/rank/sort_order/asc/cols/stats) - timeshighereducation.com
 
 ### Earthquake
 * [Earthquake Hazards](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) - earthquake.usgs.gov | USGS
