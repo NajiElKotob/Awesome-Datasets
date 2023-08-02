@@ -28,6 +28,7 @@
 * [World Bank Open Data](http://data.worldbank.org) ⭐ - worldbank.org
 * [The World Bank Indicator](https://data.worldbank.org/indicator) 
 * [World Bank Group country classifications by income level for FY24](https://blogs.worldbank.org/opendata/new-world-bank-group-country-classifications-income-level-fy24)
+* [The World by Income and Region](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)
 
 ### IMF
 * [IMF](https://data.imf.org/) - data.imf.org
