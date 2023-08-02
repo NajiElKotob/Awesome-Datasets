@@ -207,6 +207,8 @@
 ### HR
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
 
+### Demographics
+* [Fertility rate, total (births per woman)](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN) - data.worldbank.org
 
 ### Real Estate
 #### General
