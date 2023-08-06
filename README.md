@@ -17,7 +17,6 @@
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [United Nations Conference on Trade and Development](https://unctadstat.unctad.org/) - unctad.org
 * [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
-* [FAOSTAT](http://www.fao.org/faostat/en/#data) - fao.org
 * [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 * [Cambridge Open Data](https://data.cambridgema.gov/)
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb | 
@@ -32,6 +31,10 @@
 
 ### WHO
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
+
+### FAO
+* [FAOSTAT](http://www.fao.org/faostat/en/#data) - fao.org
+* [FAO - Data collection](https://www.fao.org/statistics/data-collection/en/)
 
 ### IMF
 * [IMF](https://data.imf.org/) - data.imf.org
