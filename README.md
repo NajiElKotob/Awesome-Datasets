@@ -14,7 +14,6 @@
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
 * [Our World in Data](https://ourworldindata.org/charts) 🌟 - ourworldindata.org
-* [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [United Nations Conference on Trade and Development](https://unctadstat.unctad.org/) - unctad.org
 * [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
@@ -31,6 +30,8 @@
 * [The World by Income and Region](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)
 * [Commodity Markets](https://www.worldbank.org/en/research/commodity-markets)
 
+### WHO
+* [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
 
 ### IMF
 * [IMF](https://data.imf.org/) - data.imf.org
