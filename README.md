@@ -1,71 +1,5 @@
 # Awesome Open Datasets
 
-
-## Open Data Platforms
-### General
-
-* [Data World](https://data.world/) ⭐ - data.world
-   * [Data World Datasets](https://data.world/datasets/open-data) - 130K open data datasets
-* [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
-* [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
-* [Gapminder](https://www.gapminder.org/data) ⭐ - gapminder.org
-* [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
-* [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
-* [Open Data DC](https://opendata.dc.gov/) - dc.gov
-* [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
-* [Our World in Data](https://ourworldindata.org/charts) 🌟 - ourworldindata.org
-* [U.S Data](http://catalog.data.gov/dataset) - data.gov
-* [United Nations Conference on Trade and Development](https://unctadstat.unctad.org/) - unctad.org
-* [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
-* [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
-* [Cambridge Open Data](https://data.cambridgema.gov/)
-* [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb | 
-* [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
-
-### World Bank
-* [World Bank Open Data](http://data.worldbank.org) ⭐ - worldbank.org
-* [The World Bank Indicator](https://data.worldbank.org/indicator) 
-* [World Bank Group country classifications by income level for FY24](https://blogs.worldbank.org/opendata/new-world-bank-group-country-classifications-income-level-fy24)
-* [The World by Income and Region](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)
-* [Commodity Markets](https://www.worldbank.org/en/research/commodity-markets)
-
-### WHO
-* [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
-
-### FAO
-* [FAOSTAT](http://www.fao.org/faostat/en/#data) - fao.org
-* [FAO - Data collection](https://www.fao.org/statistics/data-collection/en/)
-
-### IMF
-* [IMF](https://data.imf.org/) - data.imf.org
-  
-### UN
-* [UN Data](http://data.un.org) - un.org
-* [UN Comtrade Database](https://comtrade.un.org/data)
-   * [UN Comtrade Reference Tables](https://unstats.un.org/unsd/tradekb/Knowledgebase/50039/UN-Comtrade-Reference-Tables)
-* [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
-
-  
-### NASA
-* [NASA APIs](https://api.nasa.gov/) - nasa.gov
-
-### Microsoft
-* [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
-* [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
-
-### Google
-* [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
-* [Open Datasets](https://ai.google/tools/datasets) - Google AI
-* [Google Public Data](https://www.google.com/publicdata/directory)
-
-### IBM
-* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
-  
-### AWS
-* [Registry of Open Data on AWS](https://registry.opendata.aws/)
-
------
-
 ## Datasets
 * [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
 * [Ready PBIX Datasets](https://github.com/NajiElKotob/Awesome-Power-BI/tree/master/Datasets) :boom:
@@ -91,12 +25,74 @@
 
 -----
 
+## Open Data Platforms
+### General
+
+* [Data World](https://data.world/) ⭐ - data.world
+   * [Data World Datasets](https://data.world/datasets/open-data) - 130K open data datasets
+* [Datahub](https://datahub.io/collections) - High quality data and datasets organized by topic
+* [Gapminder](https://www.gapminder.org/data) ⭐ - gapminder.org
+* [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
+* [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
+* [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
+* [Our World in Data](https://ourworldindata.org/charts) 🌟 - ourworldindata.org
+* [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
+* [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
+* [Cambridge Open Data](https://data.cambridgema.gov/)
+* [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
+
+### World Bank
+* [World Bank Open Data](http://data.worldbank.org) ⭐ - worldbank.org
+* [The World Bank Indicator](https://data.worldbank.org/indicator) 
+* [World Bank Group country classifications by income level for FY24](https://blogs.worldbank.org/opendata/new-world-bank-group-country-classifications-income-level-fy24)
+* [The World by Income and Region](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)
+* [Commodity Markets](https://www.worldbank.org/en/research/commodity-markets)
+
+### WHO
+* [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
+
+### FAO
+* [FAOSTAT](http://www.fao.org/faostat/en/#data) - fao.org
+* [FAO - Data collection](https://www.fao.org/statistics/data-collection/en/)
+
+### IMF
+* [IMF](https://data.imf.org/) - data.imf.org
+  
+### UN
+* [UN Data](http://data.un.org) - un.org
+* [UN Comtrade Database](https://comtrade.un.org/data)
+   * [UN Comtrade Reference Tables](https://unstats.un.org/unsd/tradekb/Knowledgebase/50039/UN-Comtrade-Reference-Tables)
+* [Open Data Portal (UN)](https://peacekeeping.un.org/en/open-data-portal) - United Nations Peacekeeping
+* [United Nations Conference on Trade and Development](https://unctadstat.unctad.org/) - unctad.org
+
+### NASA
+* [NASA APIs](https://api.nasa.gov/) - nasa.gov
+* [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
+
+### Microsoft
+* [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
+* [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
+
+### Google
+* [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
+* [Open Datasets](https://ai.google/tools/datasets) - Google AI
+* [Google Public Data](https://www.google.com/publicdata/directory)
+
+### IBM
+* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
+  
+### AWS
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
+
+-----
+
+
+
 ## Countries
 ### UAE
 * [UAE](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
 * [Real Estate (UAE)](https://dubailand.gov.ae/en/open-data/real-estate-data/) - dubailand.gov.ae
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse
-
 
 ### KSA (Kingdom of Saudi Arabia)
 * [General Authority for Statistics](https://www.stats.gov.sa/) - stats.gov.sa
@@ -105,6 +101,13 @@
 
 ### EU
 * [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
+
+### USA
+* [U.S Data](http://catalog.data.gov/dataset) - data.gov
+* [Open Data DC](https://opendata.dc.gov/) - dc.gov
+
+### Lebanon
+* [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb
   
 -----
 
