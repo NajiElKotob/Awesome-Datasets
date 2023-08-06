@@ -4,7 +4,6 @@
 * [The state of happiness in a COVID world](https://www.ipsos.com/en/global-happiness-study-2020) - Ipsos
 * [Ready PBIX Datasets](https://github.com/NajiElKotob/Awesome-Power-BI/tree/master/Datasets) :boom:
 * [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
-* [U.S. Census Bureau](https://www.census.gov/people) - census.gov
 * [Coffee and Code](https://www.kaggle.com/devready/coffee-and-code) - The case for Lebanon
 * [Quality of Government](https://www.kaggle.com/devready/quality-of-government) - QoG based on three factors; EoDB, EGDI and CPI
 * [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
@@ -12,11 +11,9 @@
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 * [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight 
 * [Divvy Data](https://www.divvybikes.com/system-data) - Historical trip data available to the public
-* [Liban Data](https://www.libandata.org/ar)
 * [The National Longitudinal Study of Adolescent to Adult Health (Add Health)](https://addhealth.cpc.unc.edu/)
-* [National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) - III](https://healthdata.gov/dataset/national-epidemiologic-survey-alcohol-and-related-conditions-nesarc-iii)
 * [Mars Crater Catalog v1 Robbins](https://astrogeology.usgs.gov/search/details/Mars/Research/Craters/RobbinsCraterDatabase_20120821/zip)
-* [BigML](https://bigml.com/user/bigml/gallery/datasets)
+* [BigML](https://bigml.com/user/bigml/gallery/datasets) - bigml.com
 * [Microsoft Contoso BI Demo Dataset for Retail Industry](https://www.microsoft.com/en-us/download/details.aspx?id=18279)
 * [Maven Analytics (Data Playground)](https://www.mavenanalytics.io/data-playground) 🌟 - mavenanalytics.io
 * [OpenDataSoft](https://public.opendatasoft.com/explore/?sort=modified) - opendatasoft.com
@@ -103,12 +100,16 @@
 * [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
 
 ### USA
+* [U.S. Census Bureau](https://www.census.gov/people) - census.gov
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
+* [National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) - III](https://healthdata.gov/dataset/national-epidemiologic-survey-alcohol-and-related-conditions-nesarc-iii) - healthdata.gov
+
 
 ### Lebanon
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb
-  
+* [Liban Data](https://www.libandata.org/ar) - libandata.org  
+
 -----
 
 ## Python Libraries
