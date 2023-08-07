@@ -83,8 +83,6 @@
 
 -----
 
-
-
 ## Countries
 ### UAE
 * [UAE](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
@@ -105,10 +103,13 @@
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) - III](https://healthdata.gov/dataset/national-epidemiologic-survey-alcohol-and-related-conditions-nesarc-iii) - healthdata.gov
 
-
 ### Lebanon
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb
 * [Liban Data](https://www.libandata.org/ar) - libandata.org  
+
+-----
+
+## Global Indices
 
 -----
 
