@@ -112,16 +112,6 @@
 ## Global Indices
 * [Human Development Insights (HDI)](https://hdr.undp.org/data-center/country-insights#/ranks) - hdr.undp.org | Access and explore human development data for 191 countries and territories worldwide.
   
------
-
-## Python Libraries
-* [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
-
-## GitHub
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-* [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
-* [Small data analysis and viz projects](https://github.com/Lisa-Ho/small-data-projects)
-
 
 -----
 
@@ -250,6 +240,20 @@
 * [Meetup RSVPs](http://meetup.github.io/stream/rsvpTicker/)
 * [Real-Time Traffic Speed Data (NYC OpenData)](https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/qkm5-nuaq) - cityofnewyork.us
 
+-----
+
+## Python Libraries
+* [Seaborn Data (GitHub)](https://github.com/mwaskom/seaborn-data)
+
+## GitHub
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
+* [Small data analysis and viz projects](https://github.com/Lisa-Ho/small-data-projects)
+
+## Articles and References
+* [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
+* [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
+* [List of Industries](https://www.ibisworld.com/united-states/list-of-industries/) - ibisworld.com
   
 -----
 
@@ -260,15 +264,14 @@
 * [Contoso Data Generator](https://github.com/sql-bi/Contoso-Data-Generator/releases/tag/v1.1.0) - github.com/sql-bi
 * [Faker](https://fakerjs.dev/) - fakerjs.dev | Generate massive amounts of fake (but realistic) data for testing and development.
 
+----
+
 ## Law and Regulations
 * [EU data protection rules](https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en)
 * [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) 
 * [GDPR](https://gdpr-info.eu/) - General Data Protection Regulation
 
-----
-## Articles and References
-* [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
-* [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
-* [List of Industries](https://www.ibisworld.com/united-states/list-of-industries/) - ibisworld.com
+
+
 
 
