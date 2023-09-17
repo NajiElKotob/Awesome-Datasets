@@ -102,6 +102,8 @@
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) - III](https://healthdata.gov/dataset/national-epidemiologic-survey-alcohol-and-related-conditions-nesarc-iii) - healthdata.gov
+* [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS) - stlouisfed.org | Economic data since 1991.
+
 
 ### Lebanon
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb
