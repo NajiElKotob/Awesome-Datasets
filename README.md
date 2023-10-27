@@ -44,7 +44,8 @@
 * [World Bank Group country classifications by income level for FY24](https://blogs.worldbank.org/opendata/new-world-bank-group-country-classifications-income-level-fy24)
 * [The World by Income and Region](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)
 * [Commodity Markets](https://www.worldbank.org/en/research/commodity-markets)
-
+* [Sustainable Development Goals 2023](https://github.com/sdga2023)
+  
 ### WHO
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
 
