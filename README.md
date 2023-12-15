@@ -110,6 +110,9 @@
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb
 * [Liban Data](https://www.libandata.org/ar) - libandata.org  
 
+### New Zealand
+* [Open Datasets](https://www.data.govt.nz/) - data.govt.nz | Discover and use data
+  
 -----
 
 ## Global Indices
