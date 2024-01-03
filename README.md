@@ -164,7 +164,8 @@
 * [Centers for Disease Control and Prevention](https://data.cdc.gov) - data.cdc.gov
 * [CoronaVirus Genome vs ZIKA/MERS/EBOLA](https://www.kaggle.com/nishantbhadauria/coronavirus-genome-vs-zikamersebola) - Comparison of different virus Genome for study
 * [Worldwide cancer data](https://www.wcrf.org/cancer-trends/worldwide-cancer-data/) - wcrf.org
-
+* [IHME](https://www.healthdata.org/data-tools-practices) - healthdata.org | Data tools and practices
+  
 ### Satellite 🛰
 * [Earth Online (European Space Agency)](https://earth.esa.int/eogateway/search?skipDetection=true&text=&category=Data) - Discover and download the Earth observation data you need from the broad catalogue of missions the European Space Agency operate and support.
 
