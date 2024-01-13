@@ -258,9 +258,10 @@
 * [Small data analysis and viz projects](https://github.com/Lisa-Ho/small-data-projects)
 
 ## Articles and References
-* [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
-* [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
+* [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets) - hackage.haskell.org
+* [19 Free Public Data Sets for Your Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) - springboard.com
 * [List of Industries](https://www.ibisworld.com/united-states/list-of-industries/) - ibisworld.com
+* [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) - wikipedia.org
   
 -----
 
