@@ -206,6 +206,7 @@
 * [Climate Data Online Search](https://www.ncdc.noaa.gov/cdo-web/search) - ncdc.noaa.gov
 * [Weather datasets (data.world)](https://data.world/datasets/weather) - data.world
 * [Sea surface temperature daily data from 1981 to present derived from satellite observations](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-sea-surface-temperature?tab=form) - cds.climate.copernicus.eu
+* [Weather Forecast (API)](https://open-meteo.com/en/docs) - open-meteo.com | Seamless integration of high-resolution weather models with up 16 days forecast
 
 ### Telecom 📞
 * [STC public dataset](https://www.stc.com.sa/wps/wcm/connect/english/individual/campaign/bigdata)
