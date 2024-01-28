@@ -67,6 +67,9 @@
 * [NASA APIs](https://api.nasa.gov/) - nasa.gov
 * [Datasets and Images (NASA)](https://data.giss.nasa.gov/)
 
+### USDA
+* [FoodData](https://fdc.nal.usda.gov/) - fdc.nal.usda.gov | FoodData Central is an integrated data system that provides expanded nutrient profile data and links to related agricultural and experimental research.
+
 ### Microsoft
 * [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
