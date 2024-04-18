@@ -141,6 +141,9 @@
 * [Open Data documents provided by the UAE GCAA](https://www.gcaa.gov.ae/en/ePublication/Pages/OpenDataLibrary.aspx) - gcaa.gov.ae
 * [General Authority of Civil Aviation](http://data.bayanat.ae/en_GB/organization/general-authority-of-civil-aviation) - data.bayanat.ae
 
+### Electricity
+* [Electricity - Emissions by plant and by region](https://www.eia.gov/electricity/data/emissions/) - eia.gov
+
 ### Geography
 * [Country Information](https://www.ip2location.com/free/country-information) - ip2location.com
 * [UN-LOCODE Codelist](https://datahub.io/core/un-locode#data) - datahub.io
