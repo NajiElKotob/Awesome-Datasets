@@ -122,7 +122,7 @@
 
 ## Global Indices
 * [Human Development Insights (HDI)](https://hdr.undp.org/data-center/country-insights#/ranks) - hdr.undp.org | Access and explore human development data for 191 countries and territories worldwide.
-  
+* The Dairy Industry Good Animal Database (DIGAD) ⏳
 
 -----
 
