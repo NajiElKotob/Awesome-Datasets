@@ -46,6 +46,9 @@
 * [The World by Income and Region](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)
 * [Commodity Markets](https://www.worldbank.org/en/research/commodity-markets)
 * [Sustainable Development Goals 2023](https://github.com/sdga2023)
+
+### Index
+* [Human-Centered AI (Stanford University)](https://hai.stanford.edu/) - hai.stanford.edu | Advancing AI research, education, and policy to improve the human condition
   
 ### WHO
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
