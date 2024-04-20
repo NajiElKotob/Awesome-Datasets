@@ -47,9 +47,9 @@
 * [Commodity Markets](https://www.worldbank.org/en/research/commodity-markets)
 * [Sustainable Development Goals 2023](https://github.com/sdga2023)
 
-### Index
-* [Human-Centered AI (Stanford University)](https://hai.stanford.edu/) - hai.stanford.edu | Advancing AI research, education, and policy to improve the human condition
-  
+
+
+ 
 ### WHO
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
 
@@ -91,6 +91,13 @@
 
 -----
 
+## Global Indices
+* [Human Development Insights (HDI)](https://hdr.undp.org/data-center/country-insights#/ranks) - hdr.undp.org | Access and explore human development data for 191 countries and territories worldwide.
+* The Dairy Industry Good Animal Database (DIGAD) ⏳
+* [Human-Centered AI (Stanford University)](https://hai.stanford.edu/) - hai.stanford.edu | Advancing AI research, education, and policy to improve the human condition
+  
+-----
+
 ## Countries
 ### UAE
 * [UAE](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
@@ -121,11 +128,7 @@
 ### New Zealand
 * [Open Datasets](https://www.data.govt.nz/) - data.govt.nz | Discover and use data
   
------
 
-## Global Indices
-* [Human Development Insights (HDI)](https://hdr.undp.org/data-center/country-insights#/ranks) - hdr.undp.org | Access and explore human development data for 191 countries and territories worldwide.
-* The Dairy Industry Good Animal Database (DIGAD) ⏳
 
 -----
 
