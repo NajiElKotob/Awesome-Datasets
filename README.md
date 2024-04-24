@@ -7,7 +7,6 @@
 * [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
 * [Coffee and Code](https://www.kaggle.com/devready/coffee-and-code) - The case for Lebanon
 * [Quality of Government](https://www.kaggle.com/devready/quality-of-government) - QoG based on three factors; EoDB, EGDI and CPI
-* [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
 * [OpenML](https://www.openml.org) - Find or add data to analyse
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 * [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight 
@@ -38,6 +37,10 @@
 * [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 * [Cambridge Open Data](https://data.cambridgema.gov/)
 * [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
+
+### OData
+* [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
+
 
 ### World Bank
 * [World Bank Open Data](http://data.worldbank.org) ⭐ - worldbank.org
