@@ -39,8 +39,8 @@
 * [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
 
 ### OData
-* [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
-
+* [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - odata.org | An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
+* [TripPin](https://services.odata.org/TripPinRESTierService) - odata.org | It's a fictional travel-related service that mimics real-world data interactions. The database typically contains data such as people, airlines, airports, and trips.
 
 ### World Bank
 * [World Bank Open Data](http://data.worldbank.org) ⭐ - worldbank.org
