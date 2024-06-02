@@ -80,6 +80,7 @@
 ### Microsoft
 * [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
+* [Financial Sample Excel workbook for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
 
 ### Google
 * [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
