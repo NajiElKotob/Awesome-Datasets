@@ -59,6 +59,7 @@
 ### FAO
 * [FAOSTAT](http://www.fao.org/faostat/en/#data) - fao.org
 * [FAO - Data collection](https://www.fao.org/statistics/data-collection/en/)
+* [FAODATA Explorer](https://dataexplorer.fao.org/)
 
 ### IMF
 * [IMF](https://data.imf.org/) - data.imf.org
