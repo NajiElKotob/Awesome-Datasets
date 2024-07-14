@@ -109,6 +109,7 @@
 * [Real Estate (UAE)](https://dubailand.gov.ae/en/open-data/real-estate-data/) - dubailand.gov.ae
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse
 * [DXB Interact](https://dxbinteract.com/dubai-real-estate-market-overview) - dxbinteract.com (Charts only)
+* [Dubai Land Department](https://dubailand.gov.ae/en/open-data/real-estate-data/) - dubailand.gov.ae
 
 ### KSA (Kingdom of Saudi Arabia)
 * [General Authority for Statistics](https://www.stats.gov.sa/) - stats.gov.sa
