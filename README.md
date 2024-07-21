@@ -91,6 +91,7 @@
 * [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [Google Public Data](https://www.google.com/publicdata/directory)
+* [Dataset Search (Google)](https://datasetsearch.research.google.com/) - datasetsearch.research.google.com
 
 ### IBM
 * [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
