@@ -21,6 +21,8 @@
 * [Tableau's Sample Data](https://public.tableau.com/app/resources/sample-data) - public.tableau.com
 * [CORGIS](https://corgis-edu.github.io/corgis/csv/) ⭐ - corgis-edu.github.io | The Collection of Really Great, Interesting, Situated Datasets
 
+## CSV
+* [Customers CSV Sample (Datablist)](https://github.com/datablist/sample-csv-files) - github.com
 
 -----
 
