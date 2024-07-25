@@ -295,6 +295,7 @@
 -----
 
 ## Database Generator
+* [Announcing Contoso Data Generator v2](https://www.sqlbi.com/blog/marco/2024/07/25/announcing-contoso-data-generator-v2/) - sqlbi.com
 * [Generate test data - JSON](http://www.databasetestdata.com) - databasetestdata.com
 * [Generate Data](https://www.generatedata.com) - generatedata.com provides a quick and simple way to let you generate large volumes of custom data in whatever format you require.
 * [DataFairy](https://devskiller.com/datafairy/) - devskiller.com/datafairy
