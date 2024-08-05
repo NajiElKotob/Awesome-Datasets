@@ -20,6 +20,7 @@
 * [Sustainable Development Report](https://dashboards.sdgindex.org/) - sdgindex.org
 * [Tableau's Sample Data](https://public.tableau.com/app/resources/sample-data) - public.tableau.com
 * [CORGIS](https://corgis-edu.github.io/corgis/csv/) ⭐ - corgis-edu.github.io | The Collection of Really Great, Interesting, Situated Datasets
+* [The Quality of Government Expert Survey](https://www.gu.se/en/quality-government/qog-data/data-downloads/qog-expert-survey) - gu.se | The QoG Expert Survey is a research project aimed at documenting the organizational design of public bureaucracies and bureaucratic behavior in countries around the world. 
 
 ## CSV
 * [Customers CSV Sample (Datablist)](https://github.com/datablist/sample-csv-files) - github.com
