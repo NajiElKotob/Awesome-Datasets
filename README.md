@@ -111,7 +111,7 @@
 
 ## Countries
 ### UAE
-* [UAE](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
+* [Bayanat.ae - Official Portal of the UAE Government](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
 * [Real Estate (UAE)](https://dubailand.gov.ae/en/open-data/real-estate-data/) - dubailand.gov.ae
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse
 * [DXB Interact](https://dxbinteract.com/dubai-real-estate-market-overview) - dxbinteract.com (Charts only)
