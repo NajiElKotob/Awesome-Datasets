@@ -229,6 +229,9 @@
 ### Energy ⚡
 * [ENERGYDATA.INFO](https://energydata.info/) - energydata.info | Open Data and analytics for a sustainable energy future
 * [OpenEI](https://openei.org/wiki/Data) - OpenEI openei.org is a trusted source of energy data
+
+### The Nobel Foundation
+* [Nobel Prizes and Nobel Laureates](https://www.nobelprize.org/organization/developer-zone-2/) - nobelprize.org
     
 ### Weather
 * [Climate Data Online Search](https://www.ncdc.noaa.gov/cdo-web/search) - ncdc.noaa.gov
