@@ -187,6 +187,9 @@
 ### Aluminum
 * [International Aluminium Institute](https://international-aluminium.org/statistics/) - international-aluminium.org
 
+### Travel
+* [OurAirports](https://ourairports.com/data/) - ourairports.com
+
 ### Health 🏥
 * [COVID-19 Dataset by Our World in Data](https://github.com/owid/covid-19-data) 🦠 - ourworldindata.org
 * [Centers for Disease Control and Prevention](https://data.cdc.gov) - data.cdc.gov
