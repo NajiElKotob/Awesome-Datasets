@@ -1,0 +1,3 @@
+# AdventureWorkds
+
+* AdventureWorks is a sample database provided by Microsoft that showcases a comprehensive dataset for a fictional company, Adventure Works Cycles, which manufactures and sells bicycles and related products. It is designed to demonstrate database management and business intelligence concepts, including sales, product management, customer relations, and human resources. The database includes schemas for transactional and analytical use, making it a popular choice for learning and practicing SQL queries, data modeling, and reporting with tools like SQL Server, Power BI, and others.
