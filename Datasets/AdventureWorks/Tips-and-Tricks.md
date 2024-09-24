@@ -7,3 +7,6 @@
 * %UserProfile%\Microsoft\Power BI Desktop Store App\AnalysisServicesWorkspaces > AnalysisServicesWorkspace_XXXXX > Data > msmdsrv.port.txt
 * %LocalAppData%\Microsoft\Power BI Desktop\AnalysisServicesWorkspaces > AnalysisServicesWorkspace_XXXXX > Data > msmdsrv.port.txt
 * %LocalAppData%\Microsoft\Power BI Desktop SSRS\AnalysisServicesWorkspaces > AnalysisServicesWorkspace_XXXXX > Data > msmdsrv.port.txt
+
+### Connect
+* Excel, Power BI, etc. > Analysis Services > Server: 127.0.0.1:{Port}
