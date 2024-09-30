@@ -143,6 +143,8 @@
 * [Open Datasets](https://www.data.govt.nz/) - data.govt.nz | Discover and use data
   
 
+### Finland
+* [Statistics Finland](https://stat.fi/en/statistical-data) - stat.fi
 
 -----
 
