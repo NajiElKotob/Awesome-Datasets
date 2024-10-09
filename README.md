@@ -295,7 +295,7 @@
 * [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
 * [Small data analysis and viz projects](https://github.com/Lisa-Ho/small-data-projects)
 * [Dataquest](https://github.com/dataquestio/project-walkthroughs/tree/master) - Project Walkthroughs
-
+* [Mark Wilcock](https://github.com/MarkWilcock/CourseDatasets/tree/main) - Course Datasets
 
 ## Articles and References
 * [Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets) - hackage.haskell.org
