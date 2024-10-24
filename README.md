@@ -124,6 +124,7 @@
 * [Capital Market Authority](https://od.data.gov.sa/Data/en/organization/capital_market_authority) - od.data.gov.sa
 * [Saudi Census](https://portal.saudicensus.sa/portal) - saudicensus.sa | A comprehensive census is designed to provide a complete and accurate count of the population along with information on housing, across all locations in the Kingdom and sub-groups of the population.
 * [Data Saudi](https://datasaudi.sa/) - datasaudi.sa
+* [World Bank (KSA)](https://data.worldbank.org/country/saudi-arabia) - data.worldbank.org
 
 ### EU
 * [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
