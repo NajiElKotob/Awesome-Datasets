@@ -126,6 +126,9 @@
 * [Data Saudi](https://datasaudi.sa/) - datasaudi.sa
 * [World Bank (KSA)](https://data.worldbank.org/country/saudi-arabia) - data.worldbank.org
 
+### Qatar
+* [Qatar Open Data](https://www.data.gov.qa) - data.gov.qa
+
 ### EU
 * [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
 
