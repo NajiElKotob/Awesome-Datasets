@@ -135,7 +135,7 @@
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) - III](https://healthdata.gov/dataset/national-epidemiologic-survey-alcohol-and-related-conditions-nesarc-iii) - healthdata.gov
 * [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS) - stlouisfed.org | Economic data since 1991.
-
+* [New York State (Open Data)](https://data.ny.gov/) - data.ny.gov | Explore New York State datasets, maps, charts, and other assets from 62 state agencies and authorities.
 
 ### Lebanon
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb
