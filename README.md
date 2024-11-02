@@ -68,6 +68,7 @@
 
 ### IMF
 * [IMF](https://data.imf.org/) - data.imf.org
+* [Currency Composition of Official Foreign Exchange Reserves (COFER)](https://data.imf.org/?sk=e6a5f467-c14b-4aa8-9f6d-5a09ec4e62a4)
   
 ### UN
 * [UN Data](http://data.un.org) - un.org
