@@ -126,6 +126,7 @@
 * [Saudi Census](https://portal.saudicensus.sa/portal) - saudicensus.sa | A comprehensive census is designed to provide a complete and accurate count of the population along with information on housing, across all locations in the Kingdom and sub-groups of the population.
 * [Data Saudi](https://datasaudi.sa/) - datasaudi.sa
 * [World Bank (KSA)](https://data.worldbank.org/country/saudi-arabia) - data.worldbank.org
+* [Ministry of Tourism (Tourism Intelligence)](https://mt.gov.sa/tic/open-data) - mt.gov.sa
 
 ### Qatar
 * [Qatar Open Data](https://www.data.gov.qa) - data.gov.qa
