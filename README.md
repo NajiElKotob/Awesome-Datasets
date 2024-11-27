@@ -37,7 +37,7 @@
 * [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
 * [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
 * [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
-* [Our World in Data](https://ourworldindata.org/charts) 🌟 - ourworldindata.org
+* [Our World in Data](https://ourworldindata.org/charts) 🌟🔥 - ourworldindata.org
 * [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
 * [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 * [Cambridge Open Data](https://data.cambridgema.gov/)
