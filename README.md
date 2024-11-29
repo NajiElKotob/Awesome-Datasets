@@ -278,6 +278,8 @@
 * [Paris 2024 The data sharing platform (Olympics)](https://data.paris2024.org/pages/accueil/)
 * [Sport Rankings](http://www.espn.com/espn/page2/sportSkills) - espn.com
 * [The FIFA 2022 CSV Dataset](https://sports-statistics.com/soccer/fifa-2022-dataset-csvs/) - sports-statistics.com
+* [Formula 1 Datasets](https://github.com/toUpperCase78/formula1-datasets) - Dogan Yigit Yenigun
+ 
 
 ### Finance
 * [Yahoo Finance](https://finance.yahoo.com/lookup) - finance.yahoo.com
