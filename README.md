@@ -127,6 +127,7 @@
 * [Data Saudi](https://datasaudi.sa/) - datasaudi.sa
 * [World Bank (KSA)](https://data.worldbank.org/country/saudi-arabia) - data.worldbank.org
 * [Ministry of Tourism (Tourism Intelligence)](https://mt.gov.sa/tic/open-data) - mt.gov.sa
+* [Weekly Points Of Sale Transactions](https://www.sama.gov.sa/en-US/Indices/Pages/POS.aspx)
 
 ### Qatar
 * [Qatar Open Data](https://www.data.gov.qa) - data.gov.qa
