@@ -167,9 +167,10 @@
 * [Earthquake Hazards](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) - earthquake.usgs.gov | USGS
 * [Significant Earthquake Database](https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/table/) - opendatasoft.com
 
-### Aviation ✈
+### Aviation / Airlines ✈
 * [Open Data documents provided by the UAE GCAA](https://www.gcaa.gov.ae/en/ePublication/Pages/OpenDataLibrary.aspx) - gcaa.gov.ae
 * [General Authority of Civil Aviation](http://data.bayanat.ae/en_GB/organization/general-authority-of-civil-aviation) - data.bayanat.ae
+* [Airline Dataset | Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset/data) - Sourav Banerjee
 
 ### Electricity
 * [Electricity - Emissions by plant and by region](https://www.eia.gov/electricity/data/emissions/) - eia.gov
