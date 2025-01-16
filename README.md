@@ -46,6 +46,8 @@
 
 ### Hyperscalers
 * [Amazon's AWS Public Datasets](https://registry.opendata.aws/)
+* [Google's BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
+
 
 ### OData
 * [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - odata.org | An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
