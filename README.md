@@ -45,8 +45,9 @@
 * [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
 
 ### Hyperscalers
-* [Amazon's AWS Public Datasets](https://registry.opendata.aws/)
-* [Google's BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
+* [Amazon's AWS Public Datasets](https://registry.opendata.aws/) - opendata.aws
+* [Google's BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/) - google.com
+* [Microsoft Research Open Data](http://microsoftopendata.com/) - microsoftopendata.com
 
 
 ### OData
