@@ -27,6 +27,7 @@
 
 -----
 
+
 ## Open Data Platforms
 ### General
 
@@ -42,6 +43,9 @@
 * [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 * [Cambridge Open Data](https://data.cambridgema.gov/)
 * [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
+
+### Hyperscalers
+* [Amazon's AWS Public Datasets](https://registry.opendata.aws/)
 
 ### OData
 * [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - odata.org | An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
