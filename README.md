@@ -45,8 +45,17 @@
 * [CSV Datasets](https://corgis-edu.github.io/corgis/csv/) 🌟 - corgis-edu.github.io | CORGIS: The Collection of Really Great, Interesting, Situated Datasets
 
 ### Hyperscalers
-* [Amazon's AWS Public Datasets](https://registry.opendata.aws/) - opendata.aws
+#### Google
+* [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
+* [Open Datasets](https://ai.google/tools/datasets) - Google AI
+* [Google Public Data](https://www.google.com/publicdata/directory)
+* [Dataset Search (Google)](https://datasetsearch.research.google.com/) - datasetsearch.research.google.com
 * [Google's BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/) - google.com
+
+#### Amazon
+* [Amazon's AWS Public Datasets](https://registry.opendata.aws/) - opendata.aws
+
+#### Microsoft
 * [Microsoft Research Open Data](http://microsoftopendata.com/) - microsoftopendata.com
 
 
@@ -63,8 +72,6 @@
 * [Sustainable Development Goals 2023](https://github.com/sdga2023)
 
 
-
- 
 ### WHO
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
 
@@ -96,11 +103,7 @@
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
 * [Financial Sample Excel workbook for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
 
-### Google
-* [Kaggle](https://www.kaggle.com/datasets) ⭐ - Kaggle is an online community of data scientists and machine learners, owned by Google LLC
-* [Open Datasets](https://ai.google/tools/datasets) - Google AI
-* [Google Public Data](https://www.google.com/publicdata/directory)
-* [Dataset Search (Google)](https://datasetsearch.research.google.com/) - datasetsearch.research.google.com
+
 
 ### IBM
 * [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
