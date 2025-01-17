@@ -57,7 +57,13 @@
 
 #### Microsoft
 * [Microsoft Research Open Data](http://microsoftopendata.com/) - microsoftopendata.com
+* [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
+* [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
+* [Financial Sample Excel workbook for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
 
+#### IBM
+* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
+  
 
 ### OData
 * [Northwind (OData)](https://services.odata.org/northwind/northwind.svc) - odata.org | An open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
@@ -98,16 +104,7 @@
 ### USDA
 * [FoodData](https://fdc.nal.usda.gov/) - fdc.nal.usda.gov | FoodData Central is an integrated data system that provides expanded nutrient profile data and links to related agricultural and experimental research.
 
-### Microsoft
-* [Azure AI Fundamentals Datasets](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/tree/main/data)
-* [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/catalog/) - azure.microsoft.com
-* [Financial Sample Excel workbook for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
 
-
-
-### IBM
-* [IBM - Data Asset eXchange](https://developer.ibm.com/exchanges/data/) - Explore useful and relevant data sets for enterprise data science
-  
 ### AWS
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
