@@ -145,6 +145,7 @@
 ### USA
 * [U.S. Census Bureau](https://www.census.gov/people) - census.gov
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
+  - [Crime](https://catalog.data.gov/dataset/?tags=crime) - catalog.data.gov
 * [Open Data DC](https://opendata.dc.gov/) - dc.gov
 * [National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) - III](https://healthdata.gov/dataset/national-epidemiologic-survey-alcohol-and-related-conditions-nesarc-iii) - healthdata.gov
 * [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS) - stlouisfed.org | Economic data since 1991.
