@@ -135,7 +135,8 @@
 * [World Bank (KSA)](https://data.worldbank.org/country/saudi-arabia) - data.worldbank.org
 * [Ministry of Tourism (Tourism Intelligence)](https://mt.gov.sa/tic/open-data) - mt.gov.sa
 * [Weekly Points Of Sale Transactions](https://www.sama.gov.sa/en-US/Indices/Pages/POS.aspx)
-* [Interactive Budget Dashboard](https://mof.gov.sa/en/budget/Pages/Dashboard.aspx) ⭐ - mof.gov.sa 
+* [Interactive Budget Dashboard](https://mof.gov.sa/en/budget/Pages/Dashboard.aspx) ⭐ - mof.gov.sa
+* [Hajj Statistics](https://www.stats.gov.sa/en/statistics-tabs/-/categories/124364?tab=436312&category=124364) - stats.gov.sa
 
 ### Qatar
 * [Qatar Open Data](https://www.data.gov.qa) - data.gov.qa
