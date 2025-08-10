@@ -337,6 +337,7 @@
 * [DataFairy](https://devskiller.com/datafairy/) - devskiller.com/datafairy
 * [Contoso Data Generator](https://github.com/sql-bi/Contoso-Data-Generator/releases/tag/v1.1.0) - github.com/sql-bi
 * [Faker](https://fakerjs.dev/) - fakerjs.dev | Generate massive amounts of fake (but realistic) data for testing and development.
+* [Online GUID & UUID Generator](https://guidgenerator.com/) - guidgenerator.com
 
 ----
 
