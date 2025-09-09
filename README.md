@@ -119,6 +119,9 @@
 -----
 
 ## Countries
+### GCC
+* [GCC-Stat Data Portal](https://dp.marsa.gccstat.org/) - gccstat.org
+
 ### UAE
 * [Bayanat.ae - Official Portal of the UAE Government](https://opendata.fcsc.gov.ae/) - fcsc.gov.ae | Find government data shared under our commitment to enhance participation and transparency.
 * [Real Estate (UAE)](https://dubailand.gov.ae/en/open-data/real-estate-data/) - dubailand.gov.ae
