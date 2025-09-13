@@ -162,6 +162,7 @@
 * [New York State (Open Data)](https://data.ny.gov/) - data.ny.gov | Explore New York State datasets, maps, charts, and other assets from 62 state agencies and authorities.
 * [Tracking federal expenditures in real time (Hamilton Project)](https://www.hamiltonproject.org/data/tracking-federal-expenditures-in-real-time/)
 * [History of U.S. Recessions](https://www.self.inc/info/history-of-us-recessions/) - self.inc
+* [FRED - Federal Reserve Bank of ST. Louis](https://fred.stlouisfed.org/categories) - fred.stlouisfed.org
 
 ### Lebanon
 * [Impact (Development)](https://development.impact.gov.lb/) - development.impact.gov.lb
