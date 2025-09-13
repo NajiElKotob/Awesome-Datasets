@@ -78,6 +78,8 @@
 * [Commodity Markets](https://www.worldbank.org/en/research/commodity-markets)
 * [Sustainable Development Goals 2023](https://github.com/sdga2023)
 
+### World Population Review
+* [Average Books Read Per Year by Country](https://worldpopulationreview.com/country-rankings/average-books-read-per-year-by-country)
 
 ### WHO
 * [The Global Health Observatory](https://www.who.int/data/gho/) - who.int (Explore a world of health data)
