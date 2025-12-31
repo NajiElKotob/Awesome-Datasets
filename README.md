@@ -22,6 +22,7 @@
 * [CORGIS](https://corgis-edu.github.io/corgis/csv/) ⭐ - corgis-edu.github.io | The Collection of Really Great, Interesting, Situated Datasets
 * [The Quality of Government Expert Survey](https://www.gu.se/en/quality-government/qog-data/data-downloads/qog-expert-survey) - gu.se | The QoG Expert Survey is a research project aimed at documenting the organizational design of public bureaucracies and bureaucratic behavior in countries around the world.
 * [HORIZON by exca](https://github.com/excainsights/HORIZON/tree/main/Datasets) 🌟 - exca Insights | Open Datasets
+* [WorldPop](https://www.worldpop.org/datacatalog/) - worldpop.org
 
 ## CSV
 * [Customers CSV Sample (Datablist)](https://github.com/datablist/sample-csv-files) - github.com
