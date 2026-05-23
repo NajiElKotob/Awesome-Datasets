@@ -1,0 +1,3201 @@
+[
+  {
+    "trade_date": "2021-07-27",
+    "sayrafa_avg_rate_lbp": 16500,
+    "trading_volume_usd": 3000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 18700
+  },
+  {
+    "trade_date": "2021-07-28",
+    "sayrafa_avg_rate_lbp": 15000,
+    "trading_volume_usd": 1500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 17700
+  },
+  {
+    "trade_date": "2021-07-29",
+    "sayrafa_avg_rate_lbp": 15000,
+    "trading_volume_usd": 2000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 17900
+  },
+  {
+    "trade_date": "2021-07-30",
+    "sayrafa_avg_rate_lbp": 14500,
+    "trading_volume_usd": 2000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 18350
+  },
+  {
+    "trade_date": "2021-08-03",
+    "sayrafa_avg_rate_lbp": 16500,
+    "trading_volume_usd": 3000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20600
+  },
+  {
+    "trade_date": "2021-08-06",
+    "sayrafa_avg_rate_lbp": 15650,
+    "trading_volume_usd": 2200000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20100
+  },
+  {
+    "trade_date": "2021-08-11",
+    "sayrafa_avg_rate_lbp": 17400,
+    "trading_volume_usd": 2000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20575
+  },
+  {
+    "trade_date": "2021-08-12",
+    "sayrafa_avg_rate_lbp": 17900,
+    "trading_volume_usd": 2000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20700
+  },
+  {
+    "trade_date": "2021-08-13",
+    "sayrafa_avg_rate_lbp": 17500,
+    "trading_volume_usd": 2100000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20750
+  },
+  {
+    "trade_date": "2021-08-18",
+    "sayrafa_avg_rate_lbp": 16500,
+    "trading_volume_usd": 750000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 18200
+  },
+  {
+    "trade_date": "2021-08-24",
+    "sayrafa_avg_rate_lbp": 16000,
+    "trading_volume_usd": 1150000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 19200
+  },
+  {
+    "trade_date": "2021-08-25",
+    "sayrafa_avg_rate_lbp": 16800,
+    "trading_volume_usd": 900000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 19200
+  },
+  {
+    "trade_date": "2021-08-26",
+    "sayrafa_avg_rate_lbp": 16500,
+    "trading_volume_usd": 750000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 19100
+  },
+  {
+    "trade_date": "2021-08-27",
+    "sayrafa_avg_rate_lbp": 16500,
+    "trading_volume_usd": 700000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 19150
+  },
+  {
+    "trade_date": "2021-08-31",
+    "sayrafa_avg_rate_lbp": 16600,
+    "trading_volume_usd": 900000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 19000
+  },
+  {
+    "trade_date": "2021-09-01",
+    "sayrafa_avg_rate_lbp": 16000,
+    "trading_volume_usd": 850000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 19100
+  },
+  {
+    "trade_date": "2021-09-02",
+    "sayrafa_avg_rate_lbp": 15700,
+    "trading_volume_usd": 900000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 18100
+  },
+  {
+    "trade_date": "2021-09-03",
+    "sayrafa_avg_rate_lbp": 16000,
+    "trading_volume_usd": 1500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 18700
+  },
+  {
+    "trade_date": "2021-09-09",
+    "sayrafa_avg_rate_lbp": 16000,
+    "trading_volume_usd": 1000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 19350
+  },
+  {
+    "trade_date": "2021-09-10",
+    "sayrafa_avg_rate_lbp": 15500,
+    "trading_volume_usd": 500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 18100
+  },
+  {
+    "trade_date": "2021-09-14",
+    "sayrafa_avg_rate_lbp": 14300,
+    "trading_volume_usd": 1500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 16275
+  },
+  {
+    "trade_date": "2021-09-15",
+    "sayrafa_avg_rate_lbp": 14000,
+    "trading_volume_usd": 800000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 16100
+  },
+  {
+    "trade_date": "2021-09-21",
+    "sayrafa_avg_rate_lbp": 14000,
+    "trading_volume_usd": 750000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 14800
+  },
+  {
+    "trade_date": "2021-09-22",
+    "sayrafa_avg_rate_lbp": 14000,
+    "trading_volume_usd": 1150000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 15100
+  },
+  {
+    "trade_date": "2021-09-23",
+    "sayrafa_avg_rate_lbp": 14200,
+    "trading_volume_usd": 750000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 16300
+  },
+  {
+    "trade_date": "2021-09-24",
+    "sayrafa_avg_rate_lbp": 14300,
+    "trading_volume_usd": 900000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 15800
+  },
+  {
+    "trade_date": "2021-09-28",
+    "sayrafa_avg_rate_lbp": 14500,
+    "trading_volume_usd": 850000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 16425
+  },
+  {
+    "trade_date": "2021-09-29",
+    "sayrafa_avg_rate_lbp": 14700,
+    "trading_volume_usd": 850000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 16800
+  },
+  {
+    "trade_date": "2021-09-30",
+    "sayrafa_avg_rate_lbp": 15000,
+    "trading_volume_usd": 700000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 17500
+  },
+  {
+    "trade_date": "2021-10-01",
+    "sayrafa_avg_rate_lbp": 14750,
+    "trading_volume_usd": 850000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 17500
+  },
+  {
+    "trade_date": "2021-10-05",
+    "sayrafa_avg_rate_lbp": 15500,
+    "trading_volume_usd": 2150000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 17550
+  },
+  {
+    "trade_date": "2021-10-06",
+    "sayrafa_avg_rate_lbp": 15100,
+    "trading_volume_usd": 2400000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 17600
+  },
+  {
+    "trade_date": "2021-10-07",
+    "sayrafa_avg_rate_lbp": 15300,
+    "trading_volume_usd": 1300000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 18450
+  },
+  {
+    "trade_date": "2021-10-08",
+    "sayrafa_avg_rate_lbp": 16000,
+    "trading_volume_usd": 2000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 19000
+  },
+  {
+    "trade_date": "2021-10-12",
+    "sayrafa_avg_rate_lbp": 17000,
+    "trading_volume_usd": 2300000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 19450
+  },
+  {
+    "trade_date": "2021-10-13",
+    "sayrafa_avg_rate_lbp": 17000,
+    "trading_volume_usd": 2000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20750
+  },
+  {
+    "trade_date": "2021-10-21",
+    "sayrafa_avg_rate_lbp": 17000,
+    "trading_volume_usd": 3300000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20200
+  },
+  {
+    "trade_date": "2021-10-22",
+    "sayrafa_avg_rate_lbp": 17300,
+    "trading_volume_usd": 7000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20250
+  },
+  {
+    "trade_date": "2021-10-26",
+    "sayrafa_avg_rate_lbp": 17400,
+    "trading_volume_usd": 5800000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20550
+  },
+  {
+    "trade_date": "2021-10-27",
+    "sayrafa_avg_rate_lbp": 17500,
+    "trading_volume_usd": 3500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20450
+  },
+  {
+    "trade_date": "2021-11-02",
+    "sayrafa_avg_rate_lbp": 17300,
+    "trading_volume_usd": 3700000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20900
+  },
+  {
+    "trade_date": "2021-11-03",
+    "sayrafa_avg_rate_lbp": 17100,
+    "trading_volume_usd": 2800000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20850
+  },
+  {
+    "trade_date": "2021-11-04",
+    "sayrafa_avg_rate_lbp": 17500,
+    "trading_volume_usd": 6500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20600
+  },
+  {
+    "trade_date": "2021-11-05",
+    "sayrafa_avg_rate_lbp": 17600,
+    "trading_volume_usd": 4100000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20750
+  },
+  {
+    "trade_date": "2021-11-09",
+    "sayrafa_avg_rate_lbp": 17900,
+    "trading_volume_usd": 9500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 21200
+  },
+  {
+    "trade_date": "2021-11-10",
+    "sayrafa_avg_rate_lbp": 18000,
+    "trading_volume_usd": 3000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 21300
+  },
+  {
+    "trade_date": "2021-11-11",
+    "sayrafa_avg_rate_lbp": 18500,
+    "trading_volume_usd": 3000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 21900
+  },
+  {
+    "trade_date": "2021-11-12",
+    "sayrafa_avg_rate_lbp": 19000,
+    "trading_volume_usd": 2800000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22800
+  },
+  {
+    "trade_date": "2021-11-16",
+    "sayrafa_avg_rate_lbp": 18900,
+    "trading_volume_usd": 3850000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22900
+  },
+  {
+    "trade_date": "2021-11-17",
+    "sayrafa_avg_rate_lbp": 19300,
+    "trading_volume_usd": 4900000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22950
+  },
+  {
+    "trade_date": "2021-11-24",
+    "sayrafa_avg_rate_lbp": 19700,
+    "trading_volume_usd": 4300000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23750
+  },
+  {
+    "trade_date": "2021-11-30",
+    "sayrafa_avg_rate_lbp": 20600,
+    "trading_volume_usd": 3700000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24750
+  },
+  {
+    "trade_date": "2021-12-01",
+    "sayrafa_avg_rate_lbp": 20600,
+    "trading_volume_usd": 5750000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24600
+  },
+  {
+    "trade_date": "2021-12-02",
+    "sayrafa_avg_rate_lbp": 19500,
+    "trading_volume_usd": 8000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24100
+  },
+  {
+    "trade_date": "2021-12-03",
+    "sayrafa_avg_rate_lbp": 19300,
+    "trading_volume_usd": 11000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22000
+  },
+  {
+    "trade_date": "2021-12-07",
+    "sayrafa_avg_rate_lbp": 19500,
+    "trading_volume_usd": 4200000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23150
+  },
+  {
+    "trade_date": "2021-12-08",
+    "sayrafa_avg_rate_lbp": 19800,
+    "trading_volume_usd": 4200000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23400
+  },
+  {
+    "trade_date": "2021-12-09",
+    "sayrafa_avg_rate_lbp": 20500,
+    "trading_volume_usd": 5000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 25100
+  },
+  {
+    "trade_date": "2021-12-10",
+    "sayrafa_avg_rate_lbp": 20600,
+    "trading_volume_usd": 7100000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 25450
+  },
+  {
+    "trade_date": "2021-12-14",
+    "sayrafa_avg_rate_lbp": 23000,
+    "trading_volume_usd": 5300000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27350
+  },
+  {
+    "trade_date": "2021-12-15",
+    "sayrafa_avg_rate_lbp": 22300,
+    "trading_volume_usd": 17600000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 26900
+  },
+  {
+    "trade_date": "2021-12-21",
+    "sayrafa_avg_rate_lbp": 22200,
+    "trading_volume_usd": 13000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27600
+  },
+  {
+    "trade_date": "2021-12-22",
+    "sayrafa_avg_rate_lbp": 22200,
+    "trading_volume_usd": 16000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27250
+  },
+  {
+    "trade_date": "2021-12-23",
+    "sayrafa_avg_rate_lbp": 24000,
+    "trading_volume_usd": 19800000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27350
+  },
+  {
+    "trade_date": "2021-12-28",
+    "sayrafa_avg_rate_lbp": 22600,
+    "trading_volume_usd": 14300000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27450
+  },
+  {
+    "trade_date": "2021-12-29",
+    "sayrafa_avg_rate_lbp": 22700,
+    "trading_volume_usd": 18500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27500
+  },
+  {
+    "trade_date": "2022-01-04",
+    "sayrafa_avg_rate_lbp": 24000,
+    "trading_volume_usd": 18000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29600
+  },
+  {
+    "trade_date": "2022-01-05",
+    "sayrafa_avg_rate_lbp": 24500,
+    "trading_volume_usd": 15500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29950
+  },
+  {
+    "trade_date": "2022-01-11",
+    "sayrafa_avg_rate_lbp": 25000,
+    "trading_volume_usd": 17500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 32400
+  },
+  {
+    "trade_date": "2022-01-12",
+    "sayrafa_avg_rate_lbp": 24700,
+    "trading_volume_usd": 14500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 31900
+  },
+  {
+    "trade_date": "2022-01-18",
+    "sayrafa_avg_rate_lbp": 23300,
+    "trading_volume_usd": 34000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24800
+  },
+  {
+    "trade_date": "2022-01-19",
+    "sayrafa_avg_rate_lbp": 23100,
+    "trading_volume_usd": 38000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24200
+  },
+  {
+    "trade_date": "2022-01-20",
+    "sayrafa_avg_rate_lbp": 22900,
+    "trading_volume_usd": 36000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23500
+  },
+  {
+    "trade_date": "2022-01-21",
+    "sayrafa_avg_rate_lbp": 22700,
+    "trading_volume_usd": 20000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23200
+  },
+  {
+    "trade_date": "2022-01-25",
+    "sayrafa_avg_rate_lbp": 22500,
+    "trading_volume_usd": 36000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23550
+  },
+  {
+    "trade_date": "2022-01-26",
+    "sayrafa_avg_rate_lbp": 22400,
+    "trading_volume_usd": 53000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23350
+  },
+  {
+    "trade_date": "2022-01-27",
+    "sayrafa_avg_rate_lbp": 22230,
+    "trading_volume_usd": 50000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23050
+  },
+  {
+    "trade_date": "2022-01-28",
+    "sayrafa_avg_rate_lbp": 22100,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22700
+  },
+  {
+    "trade_date": "2022-02-01",
+    "sayrafa_avg_rate_lbp": 21200,
+    "trading_volume_usd": 32000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20400
+  },
+  {
+    "trade_date": "2022-02-02",
+    "sayrafa_avg_rate_lbp": 21100,
+    "trading_volume_usd": 30000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20850
+  },
+  {
+    "trade_date": "2022-02-03",
+    "sayrafa_avg_rate_lbp": 21100,
+    "trading_volume_usd": 16000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 21500
+  },
+  {
+    "trade_date": "2022-02-04",
+    "sayrafa_avg_rate_lbp": 20900,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 21650
+  },
+  {
+    "trade_date": "2022-02-08",
+    "sayrafa_avg_rate_lbp": 20700,
+    "trading_volume_usd": 46000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 21250
+  },
+  {
+    "trade_date": "2022-02-11",
+    "sayrafa_avg_rate_lbp": 20500,
+    "trading_volume_usd": 46000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 21050
+  },
+  {
+    "trade_date": "2022-02-16",
+    "sayrafa_avg_rate_lbp": 20400,
+    "trading_volume_usd": 55000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 21000
+  },
+  {
+    "trade_date": "2022-02-17",
+    "sayrafa_avg_rate_lbp": 20300,
+    "trading_volume_usd": 60000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20975
+  },
+  {
+    "trade_date": "2022-02-18",
+    "sayrafa_avg_rate_lbp": 20300,
+    "trading_volume_usd": 60000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20900
+  },
+  {
+    "trade_date": "2022-02-22",
+    "sayrafa_avg_rate_lbp": 20300,
+    "trading_volume_usd": 55000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20650
+  },
+  {
+    "trade_date": "2022-02-23",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 59000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20700
+  },
+  {
+    "trade_date": "2022-02-24",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 70000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20650
+  },
+  {
+    "trade_date": "2022-02-25",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 75000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20600
+  },
+  {
+    "trade_date": "2022-03-01",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 93000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20600
+  },
+  {
+    "trade_date": "2022-03-02",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 87000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20600
+  },
+  {
+    "trade_date": "2022-03-03",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 82000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20675
+  },
+  {
+    "trade_date": "2022-03-04",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 84000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20650
+  },
+  {
+    "trade_date": "2022-03-08",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 70000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 20750
+  },
+  {
+    "trade_date": "2022-03-09",
+    "sayrafa_avg_rate_lbp": 20550,
+    "trading_volume_usd": 60000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 21400
+  },
+  {
+    "trade_date": "2022-03-10",
+    "sayrafa_avg_rate_lbp": 20900,
+    "trading_volume_usd": 85000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22550
+  },
+  {
+    "trade_date": "2022-03-11",
+    "sayrafa_avg_rate_lbp": 20750,
+    "trading_volume_usd": 92000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22600
+  },
+  {
+    "trade_date": "2022-03-15",
+    "sayrafa_avg_rate_lbp": 20600,
+    "trading_volume_usd": 90000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22350
+  },
+  {
+    "trade_date": "2022-03-16",
+    "sayrafa_avg_rate_lbp": 20700,
+    "trading_volume_usd": 92000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22275
+  },
+  {
+    "trade_date": "2022-03-17",
+    "sayrafa_avg_rate_lbp": 20800,
+    "trading_volume_usd": 90000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22425
+  },
+  {
+    "trade_date": "2022-03-18",
+    "sayrafa_avg_rate_lbp": 20800,
+    "trading_volume_usd": 78000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 22700
+  },
+  {
+    "trade_date": "2022-03-22",
+    "sayrafa_avg_rate_lbp": 21900,
+    "trading_volume_usd": 26000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24100
+  },
+  {
+    "trade_date": "2022-03-23",
+    "sayrafa_avg_rate_lbp": 21850,
+    "trading_volume_usd": 67000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23500
+  },
+  {
+    "trade_date": "2022-03-24",
+    "sayrafa_avg_rate_lbp": 22150,
+    "trading_volume_usd": 61000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24150
+  },
+  {
+    "trade_date": "2022-03-29",
+    "sayrafa_avg_rate_lbp": 22050,
+    "trading_volume_usd": 94500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24300
+  },
+  {
+    "trade_date": "2022-03-30",
+    "sayrafa_avg_rate_lbp": 22050,
+    "trading_volume_usd": 83000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24350
+  },
+  {
+    "trade_date": "2022-03-31",
+    "sayrafa_avg_rate_lbp": 22100,
+    "trading_volume_usd": 70500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24050
+  },
+  {
+    "trade_date": "2022-04-01",
+    "sayrafa_avg_rate_lbp": 22100,
+    "trading_volume_usd": 85000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23750
+  },
+  {
+    "trade_date": "2022-04-02",
+    "sayrafa_avg_rate_lbp": 22200,
+    "trading_volume_usd": 76300000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23800
+  },
+  {
+    "trade_date": "2022-04-06",
+    "sayrafa_avg_rate_lbp": 22100,
+    "trading_volume_usd": 41000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24100
+  },
+  {
+    "trade_date": "2022-04-07",
+    "sayrafa_avg_rate_lbp": 22200,
+    "trading_volume_usd": 38000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24100
+  },
+  {
+    "trade_date": "2022-04-08",
+    "sayrafa_avg_rate_lbp": 22100,
+    "trading_volume_usd": 77500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 23750
+  },
+  {
+    "trade_date": "2022-04-12",
+    "sayrafa_avg_rate_lbp": 22300,
+    "trading_volume_usd": 55000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24700
+  },
+  {
+    "trade_date": "2022-04-13",
+    "sayrafa_avg_rate_lbp": 22200,
+    "trading_volume_usd": 50000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 25350
+  },
+  {
+    "trade_date": "2022-04-14",
+    "sayrafa_avg_rate_lbp": 22200,
+    "trading_volume_usd": 33500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24550
+  },
+  {
+    "trade_date": "2022-04-15",
+    "sayrafa_avg_rate_lbp": 22850,
+    "trading_volume_usd": 52500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 24850
+  },
+  {
+    "trade_date": "2022-04-21",
+    "sayrafa_avg_rate_lbp": 23000,
+    "trading_volume_usd": 76000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 26050
+  },
+  {
+    "trade_date": "2022-04-27",
+    "sayrafa_avg_rate_lbp": 22600,
+    "trading_volume_usd": 71500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27350
+  },
+  {
+    "trade_date": "2022-04-28",
+    "sayrafa_avg_rate_lbp": 22600,
+    "trading_volume_usd": 83000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27250
+  },
+  {
+    "trade_date": "2022-04-29",
+    "sayrafa_avg_rate_lbp": 22600,
+    "trading_volume_usd": 66000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 26950
+  },
+  {
+    "trade_date": "2022-05-06",
+    "sayrafa_avg_rate_lbp": 22500,
+    "trading_volume_usd": 68500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 26900
+  },
+  {
+    "trade_date": "2022-05-10",
+    "sayrafa_avg_rate_lbp": 22600,
+    "trading_volume_usd": 57000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27050
+  },
+  {
+    "trade_date": "2022-05-11",
+    "sayrafa_avg_rate_lbp": 22700,
+    "trading_volume_usd": 27000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27100
+  },
+  {
+    "trade_date": "2022-05-12",
+    "sayrafa_avg_rate_lbp": 22700,
+    "trading_volume_usd": 30500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27100
+  },
+  {
+    "trade_date": "2022-05-13",
+    "sayrafa_avg_rate_lbp": 22700,
+    "trading_volume_usd": 38500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27000
+  },
+  {
+    "trade_date": "2022-05-17",
+    "sayrafa_avg_rate_lbp": 23500,
+    "trading_volume_usd": 34000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29400
+  },
+  {
+    "trade_date": "2022-05-18",
+    "sayrafa_avg_rate_lbp": 23700,
+    "trading_volume_usd": 47000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 30800
+  },
+  {
+    "trade_date": "2022-05-19",
+    "sayrafa_avg_rate_lbp": 23600,
+    "trading_volume_usd": 60000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 30400
+  },
+  {
+    "trade_date": "2022-05-20",
+    "sayrafa_avg_rate_lbp": 23900,
+    "trading_volume_usd": 41000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 31100
+  },
+  {
+    "trade_date": "2022-05-24",
+    "sayrafa_avg_rate_lbp": 24600,
+    "trading_volume_usd": 60000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 32600
+  },
+  {
+    "trade_date": "2022-05-27",
+    "sayrafa_avg_rate_lbp": 24600,
+    "trading_volume_usd": 42000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 36600
+  },
+  {
+    "trade_date": "2022-05-31",
+    "sayrafa_avg_rate_lbp": 24500,
+    "trading_volume_usd": 105000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27500
+  },
+  {
+    "trade_date": "2022-06-01",
+    "sayrafa_avg_rate_lbp": 24500,
+    "trading_volume_usd": 124500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 31300
+  },
+  {
+    "trade_date": "2022-06-02",
+    "sayrafa_avg_rate_lbp": 24400,
+    "trading_volume_usd": 122000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28500
+  },
+  {
+    "trade_date": "2022-06-03",
+    "sayrafa_avg_rate_lbp": 24400,
+    "trading_volume_usd": 90000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28100
+  },
+  {
+    "trade_date": "2022-06-07",
+    "sayrafa_avg_rate_lbp": 24400,
+    "trading_volume_usd": 85000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27800
+  },
+  {
+    "trade_date": "2022-06-08",
+    "sayrafa_avg_rate_lbp": 24400,
+    "trading_volume_usd": 92500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27900
+  },
+  {
+    "trade_date": "2022-06-09",
+    "sayrafa_avg_rate_lbp": 24400,
+    "trading_volume_usd": 110000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 27975
+  },
+  {
+    "trade_date": "2022-06-10",
+    "sayrafa_avg_rate_lbp": 24700,
+    "trading_volume_usd": 100000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28000
+  },
+  {
+    "trade_date": "2022-06-14",
+    "sayrafa_avg_rate_lbp": 24900,
+    "trading_volume_usd": 47000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28950
+  },
+  {
+    "trade_date": "2022-06-15",
+    "sayrafa_avg_rate_lbp": 24900,
+    "trading_volume_usd": 26000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29500
+  },
+  {
+    "trade_date": "2022-06-16",
+    "sayrafa_avg_rate_lbp": 24900,
+    "trading_volume_usd": 20600000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28900
+  },
+  {
+    "trade_date": "2022-06-17",
+    "sayrafa_avg_rate_lbp": 24900,
+    "trading_volume_usd": 54000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28275
+  },
+  {
+    "trade_date": "2022-06-21",
+    "sayrafa_avg_rate_lbp": 24900,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28550
+  },
+  {
+    "trade_date": "2022-06-22",
+    "sayrafa_avg_rate_lbp": 24900,
+    "trading_volume_usd": 30000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29300
+  },
+  {
+    "trade_date": "2022-06-23",
+    "sayrafa_avg_rate_lbp": 24900,
+    "trading_volume_usd": 20000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28850
+  },
+  {
+    "trade_date": "2022-06-24",
+    "sayrafa_avg_rate_lbp": 25200,
+    "trading_volume_usd": 36000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29600
+  },
+  {
+    "trade_date": "2022-06-30",
+    "sayrafa_avg_rate_lbp": 25200,
+    "trading_volume_usd": 44500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28200
+  },
+  {
+    "trade_date": "2022-07-01",
+    "sayrafa_avg_rate_lbp": 25300,
+    "trading_volume_usd": 55000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28150
+  },
+  {
+    "trade_date": "2022-07-05",
+    "sayrafa_avg_rate_lbp": 25300,
+    "trading_volume_usd": 92300000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 28950
+  },
+  {
+    "trade_date": "2022-07-06",
+    "sayrafa_avg_rate_lbp": 25400,
+    "trading_volume_usd": 42000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29200
+  },
+  {
+    "trade_date": "2022-07-07",
+    "sayrafa_avg_rate_lbp": 25400,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29300
+  },
+  {
+    "trade_date": "2022-07-08",
+    "sayrafa_avg_rate_lbp": 25400,
+    "trading_volume_usd": 52000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29400
+  },
+  {
+    "trade_date": "2022-07-14",
+    "sayrafa_avg_rate_lbp": 25400,
+    "trading_volume_usd": 48500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29300
+  },
+  {
+    "trade_date": "2022-07-15",
+    "sayrafa_avg_rate_lbp": 25600,
+    "trading_volume_usd": 30000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29400
+  },
+  {
+    "trade_date": "2022-07-26",
+    "sayrafa_avg_rate_lbp": 25600,
+    "trading_volume_usd": 43000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29800
+  },
+  {
+    "trade_date": "2022-07-27",
+    "sayrafa_avg_rate_lbp": 25600,
+    "trading_volume_usd": 51000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 29850
+  },
+  {
+    "trade_date": "2022-07-28",
+    "sayrafa_avg_rate_lbp": 25600,
+    "trading_volume_usd": 33000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 30000
+  },
+  {
+    "trade_date": "2022-07-29",
+    "sayrafa_avg_rate_lbp": 25700,
+    "trading_volume_usd": 38000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 30200
+  },
+  {
+    "trade_date": "2022-08-02",
+    "sayrafa_avg_rate_lbp": 25700,
+    "trading_volume_usd": 73000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 30300
+  },
+  {
+    "trade_date": "2022-08-03",
+    "sayrafa_avg_rate_lbp": 25800,
+    "trading_volume_usd": 37000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 30550
+  },
+  {
+    "trade_date": "2022-08-11",
+    "sayrafa_avg_rate_lbp": 26200,
+    "trading_volume_usd": 45000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 30600
+  },
+  {
+    "trade_date": "2022-08-12",
+    "sayrafa_avg_rate_lbp": 26200,
+    "trading_volume_usd": 46000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 31800
+  },
+  {
+    "trade_date": "2022-08-17",
+    "sayrafa_avg_rate_lbp": 26500,
+    "trading_volume_usd": 29000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 32500
+  },
+  {
+    "trade_date": "2022-08-18",
+    "sayrafa_avg_rate_lbp": 26700,
+    "trading_volume_usd": 37000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 32750
+  },
+  {
+    "trade_date": "2022-08-19",
+    "sayrafa_avg_rate_lbp": 26900,
+    "trading_volume_usd": 26000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 33150
+  },
+  {
+    "trade_date": "2022-08-23",
+    "sayrafa_avg_rate_lbp": 27200,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 33700
+  },
+  {
+    "trade_date": "2022-08-24",
+    "sayrafa_avg_rate_lbp": 27200,
+    "trading_volume_usd": 26000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 34150
+  },
+  {
+    "trade_date": "2022-08-25",
+    "sayrafa_avg_rate_lbp": 27200,
+    "trading_volume_usd": 26000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 34200
+  },
+  {
+    "trade_date": "2022-08-26",
+    "sayrafa_avg_rate_lbp": 27200,
+    "trading_volume_usd": 20000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 33000
+  },
+  {
+    "trade_date": "2022-08-30",
+    "sayrafa_avg_rate_lbp": 27200,
+    "trading_volume_usd": 31000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 32700
+  },
+  {
+    "trade_date": "2022-08-31",
+    "sayrafa_avg_rate_lbp": 27200,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 32100
+  },
+  {
+    "trade_date": "2022-09-01",
+    "sayrafa_avg_rate_lbp": 27400,
+    "trading_volume_usd": 45000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 33400
+  },
+  {
+    "trade_date": "2022-09-02",
+    "sayrafa_avg_rate_lbp": 27600,
+    "trading_volume_usd": 95000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 35000
+  },
+  {
+    "trade_date": "2022-09-06",
+    "sayrafa_avg_rate_lbp": 28000,
+    "trading_volume_usd": 41000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 35500
+  },
+  {
+    "trade_date": "2022-09-07",
+    "sayrafa_avg_rate_lbp": 28000,
+    "trading_volume_usd": 28000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 35200
+  },
+  {
+    "trade_date": "2022-09-08",
+    "sayrafa_avg_rate_lbp": 28200,
+    "trading_volume_usd": 33000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 35300
+  },
+  {
+    "trade_date": "2022-09-09",
+    "sayrafa_avg_rate_lbp": 28200,
+    "trading_volume_usd": 42000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 35250
+  },
+  {
+    "trade_date": "2022-09-13",
+    "sayrafa_avg_rate_lbp": 28600,
+    "trading_volume_usd": 29000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 36000
+  },
+  {
+    "trade_date": "2022-09-14",
+    "sayrafa_avg_rate_lbp": 28800,
+    "trading_volume_usd": 28000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 36600
+  },
+  {
+    "trade_date": "2022-09-15",
+    "sayrafa_avg_rate_lbp": 29300,
+    "trading_volume_usd": 22000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 37900
+  },
+  {
+    "trade_date": "2022-09-16",
+    "sayrafa_avg_rate_lbp": 29600,
+    "trading_volume_usd": 57000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 38000
+  },
+  {
+    "trade_date": "2022-09-20",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 41000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39150
+  },
+  {
+    "trade_date": "2022-09-21",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 20000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 37100
+  },
+  {
+    "trade_date": "2022-09-22",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 52000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 37900
+  },
+  {
+    "trade_date": "2022-09-23",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 36000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 37650
+  },
+  {
+    "trade_date": "2022-09-27",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 64000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 37400
+  },
+  {
+    "trade_date": "2022-09-28",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 48000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 38300
+  },
+  {
+    "trade_date": "2022-09-29",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 63500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39000
+  },
+  {
+    "trade_date": "2022-09-30",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 77000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 38600
+  },
+  {
+    "trade_date": "2022-10-04",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 62500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39000
+  },
+  {
+    "trade_date": "2022-10-05",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 70200000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39200
+  },
+  {
+    "trade_date": "2022-10-06",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 55000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39600
+  },
+  {
+    "trade_date": "2022-10-07",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 30000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39750
+  },
+  {
+    "trade_date": "2022-10-12",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 65000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39850
+  },
+  {
+    "trade_date": "2022-10-13",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 57000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39750
+  },
+  {
+    "trade_date": "2022-10-14",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 48000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39800
+  },
+  {
+    "trade_date": "2022-10-18",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 60000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40100
+  },
+  {
+    "trade_date": "2022-10-19",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 47000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40350
+  },
+  {
+    "trade_date": "2022-10-20",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 75000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40400
+  },
+  {
+    "trade_date": "2022-10-21",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 25000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40400
+  },
+  {
+    "trade_date": "2022-10-25",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 44000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 35450
+  },
+  {
+    "trade_date": "2022-10-26",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 30000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 35800
+  },
+  {
+    "trade_date": "2022-10-27",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 30000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 36400
+  },
+  {
+    "trade_date": "2022-10-28",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 26000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 36200
+  },
+  {
+    "trade_date": "2022-11-03",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 26000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 37600
+  },
+  {
+    "trade_date": "2022-11-04",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 22000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 37500
+  },
+  {
+    "trade_date": "2022-11-08",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 53000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39100
+  },
+  {
+    "trade_date": "2022-11-09",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40200
+  },
+  {
+    "trade_date": "2022-11-10",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39500
+  },
+  {
+    "trade_date": "2022-11-11",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40100
+  },
+  {
+    "trade_date": "2022-11-15",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39900
+  },
+  {
+    "trade_date": "2022-11-16",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39850
+  },
+  {
+    "trade_date": "2022-11-17",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40000
+  },
+  {
+    "trade_date": "2022-11-18",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 32000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40150
+  },
+  {
+    "trade_date": "2022-11-24",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 39900
+  },
+  {
+    "trade_date": "2022-11-25",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 36000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40100
+  },
+  {
+    "trade_date": "2022-11-29",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 48000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40700
+  },
+  {
+    "trade_date": "2022-11-30",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 46000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 40700
+  },
+  {
+    "trade_date": "2022-12-01",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 41100
+  },
+  {
+    "trade_date": "2022-12-02",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 50000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 41500
+  },
+  {
+    "trade_date": "2022-12-06",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 41600
+  },
+  {
+    "trade_date": "2022-12-07",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 41600
+  },
+  {
+    "trade_date": "2022-12-08",
+    "sayrafa_avg_rate_lbp": 30500,
+    "trading_volume_usd": 30000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 42000
+  },
+  {
+    "trade_date": "2022-12-09",
+    "sayrafa_avg_rate_lbp": 30500,
+    "trading_volume_usd": 31000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 42700
+  },
+  {
+    "trade_date": "2022-12-13",
+    "sayrafa_avg_rate_lbp": 30600,
+    "trading_volume_usd": 33000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 42800
+  },
+  {
+    "trade_date": "2022-12-14",
+    "sayrafa_avg_rate_lbp": 30600,
+    "trading_volume_usd": 30000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 42900
+  },
+  {
+    "trade_date": "2022-12-15",
+    "sayrafa_avg_rate_lbp": 30800,
+    "trading_volume_usd": 41000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 43100
+  },
+  {
+    "trade_date": "2022-12-16",
+    "sayrafa_avg_rate_lbp": 30800,
+    "trading_volume_usd": 50000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 43500
+  },
+  {
+    "trade_date": "2022-12-20",
+    "sayrafa_avg_rate_lbp": 31200,
+    "trading_volume_usd": 60000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 44400
+  },
+  {
+    "trade_date": "2022-12-21",
+    "sayrafa_avg_rate_lbp": 31200,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 45600
+  },
+  {
+    "trade_date": "2022-12-22",
+    "sayrafa_avg_rate_lbp": 31200,
+    "trading_volume_usd": 41000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 45900
+  },
+  {
+    "trade_date": "2022-12-23",
+    "sayrafa_avg_rate_lbp": 31200,
+    "trading_volume_usd": 90000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 46000
+  },
+  {
+    "trade_date": "2022-12-28",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 110000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 43700
+  },
+  {
+    "trade_date": "2022-12-29",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 152000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 44100
+  },
+  {
+    "trade_date": "2023-01-04",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 290000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 42500
+  },
+  {
+    "trade_date": "2023-01-05",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 305000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 43100
+  },
+  {
+    "trade_date": "2023-01-10",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 60000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 46200
+  },
+  {
+    "trade_date": "2023-01-11",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 70000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 46500
+  },
+  {
+    "trade_date": "2023-01-12",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 50000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 47600
+  },
+  {
+    "trade_date": "2023-01-13",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 42000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 48000
+  },
+  {
+    "trade_date": "2023-01-17",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 48100
+  },
+  {
+    "trade_date": "2023-01-18",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 62000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 48300
+  },
+  {
+    "trade_date": "2023-01-19",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 46000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 49600
+  },
+  {
+    "trade_date": "2023-01-20",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 50000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 50500
+  },
+  {
+    "trade_date": "2023-01-24",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 53400
+  },
+  {
+    "trade_date": "2023-01-25",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 56000
+  },
+  {
+    "trade_date": "2023-01-26",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 59000
+  },
+  {
+    "trade_date": "2023-01-27",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 25000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 63500
+  },
+  {
+    "trade_date": "2023-01-31",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 47000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 58300
+  },
+  {
+    "trade_date": "2023-02-01",
+    "sayrafa_avg_rate_lbp": 42000,
+    "trading_volume_usd": 25000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 59300
+  },
+  {
+    "trade_date": "2023-02-02",
+    "sayrafa_avg_rate_lbp": 42000,
+    "trading_volume_usd": 70000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 64500
+  },
+  {
+    "trade_date": "2023-02-03",
+    "sayrafa_avg_rate_lbp": 42000,
+    "trading_volume_usd": 57000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 64000
+  },
+  {
+    "trade_date": "2023-02-07",
+    "sayrafa_avg_rate_lbp": 42000,
+    "trading_volume_usd": 10000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 64000
+  },
+  {
+    "trade_date": "2023-02-08",
+    "sayrafa_avg_rate_lbp": 43600,
+    "trading_volume_usd": 8000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 64200
+  },
+  {
+    "trade_date": "2023-02-16",
+    "sayrafa_avg_rate_lbp": 44100,
+    "trading_volume_usd": 15000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 80500
+  },
+  {
+    "trade_date": "2023-02-17",
+    "sayrafa_avg_rate_lbp": 44100,
+    "trading_volume_usd": 17000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 82000
+  },
+  {
+    "trade_date": "2023-02-21",
+    "sayrafa_avg_rate_lbp": 44300,
+    "trading_volume_usd": 15000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 82000
+  },
+  {
+    "trade_date": "2023-02-22",
+    "sayrafa_avg_rate_lbp": 44500,
+    "trading_volume_usd": 20000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 81500
+  },
+  {
+    "trade_date": "2023-02-23",
+    "sayrafa_avg_rate_lbp": 45000,
+    "trading_volume_usd": 25000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 80800
+  },
+  {
+    "trade_date": "2023-02-24",
+    "sayrafa_avg_rate_lbp": 45200,
+    "trading_volume_usd": 25000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 82000
+  },
+  {
+    "trade_date": "2023-02-28",
+    "sayrafa_avg_rate_lbp": 45400,
+    "trading_volume_usd": 40000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 85500
+  },
+  {
+    "trade_date": "2023-03-01",
+    "sayrafa_avg_rate_lbp": 45400,
+    "trading_volume_usd": 45000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 89500
+  },
+  {
+    "trade_date": "2023-03-02",
+    "sayrafa_avg_rate_lbp": 70000,
+    "trading_volume_usd": 18000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 81000
+  },
+  {
+    "trade_date": "2023-03-03",
+    "sayrafa_avg_rate_lbp": 70000,
+    "trading_volume_usd": 20000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 79500
+  },
+  {
+    "trade_date": "2023-03-07",
+    "sayrafa_avg_rate_lbp": 70000,
+    "trading_volume_usd": 35000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 80000
+  },
+  {
+    "trade_date": "2023-03-08",
+    "sayrafa_avg_rate_lbp": 70000,
+    "trading_volume_usd": 60000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 80200
+  },
+  {
+    "trade_date": "2023-03-09",
+    "sayrafa_avg_rate_lbp": 72200,
+    "trading_volume_usd": 100000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 82000
+  },
+  {
+    "trade_date": "2023-03-10",
+    "sayrafa_avg_rate_lbp": 73100,
+    "trading_volume_usd": 63000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 88000
+  },
+  {
+    "trade_date": "2023-03-14",
+    "sayrafa_avg_rate_lbp": 78000,
+    "trading_volume_usd": 30000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 99500
+  },
+  {
+    "trade_date": "2023-03-15",
+    "sayrafa_avg_rate_lbp": 79000,
+    "trading_volume_usd": 22000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 102000
+  },
+  {
+    "trade_date": "2023-03-16",
+    "sayrafa_avg_rate_lbp": 79500,
+    "trading_volume_usd": 20000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 104000
+  },
+  {
+    "trade_date": "2023-03-17",
+    "sayrafa_avg_rate_lbp": 80200,
+    "trading_volume_usd": 25000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 107500
+  },
+  {
+    "trade_date": "2023-03-21",
+    "sayrafa_avg_rate_lbp": 90000,
+    "trading_volume_usd": 12000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 129000
+  },
+  {
+    "trade_date": "2023-03-22",
+    "sayrafa_avg_rate_lbp": 90000,
+    "trading_volume_usd": 62000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 107000
+  },
+  {
+    "trade_date": "2023-03-23",
+    "sayrafa_avg_rate_lbp": 90000,
+    "trading_volume_usd": 43000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 108000
+  },
+  {
+    "trade_date": "2023-03-24",
+    "sayrafa_avg_rate_lbp": 90000,
+    "trading_volume_usd": 36000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 108000
+  },
+  {
+    "trade_date": "2023-03-28",
+    "sayrafa_avg_rate_lbp": 90000,
+    "trading_volume_usd": 72000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 107500
+  },
+  {
+    "trade_date": "2023-03-29",
+    "sayrafa_avg_rate_lbp": 90000,
+    "trading_volume_usd": 80000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 107500
+  },
+  {
+    "trade_date": "2023-03-30",
+    "sayrafa_avg_rate_lbp": 90000,
+    "trading_volume_usd": 90000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 107500
+  },
+  {
+    "trade_date": "2023-03-31",
+    "sayrafa_avg_rate_lbp": 90000,
+    "trading_volume_usd": 96000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 107500
+  },
+  {
+    "trade_date": "2023-04-04",
+    "sayrafa_avg_rate_lbp": 88000,
+    "trading_volume_usd": 97000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 98000
+  },
+  {
+    "trade_date": "2023-04-05",
+    "sayrafa_avg_rate_lbp": 87000,
+    "trading_volume_usd": 71000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 98000
+  },
+  {
+    "trade_date": "2023-04-06",
+    "sayrafa_avg_rate_lbp": 87000,
+    "trading_volume_usd": 72000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 97500
+  },
+  {
+    "trade_date": "2023-04-12",
+    "sayrafa_avg_rate_lbp": 86700,
+    "trading_volume_usd": 85000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 97000
+  },
+  {
+    "trade_date": "2023-04-13",
+    "sayrafa_avg_rate_lbp": 86700,
+    "trading_volume_usd": 86000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 97000
+  },
+  {
+    "trade_date": "2023-04-19",
+    "sayrafa_avg_rate_lbp": 86700,
+    "trading_volume_usd": 80000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 97000
+  },
+  {
+    "trade_date": "2023-04-20",
+    "sayrafa_avg_rate_lbp": 86700,
+    "trading_volume_usd": 83500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 97200
+  },
+  {
+    "trade_date": "2023-04-26",
+    "sayrafa_avg_rate_lbp": 86500,
+    "trading_volume_usd": 90000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 97000
+  },
+  {
+    "trade_date": "2023-04-27",
+    "sayrafa_avg_rate_lbp": 86500,
+    "trading_volume_usd": 103000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 97000
+  },
+  {
+    "trade_date": "2023-04-28",
+    "sayrafa_avg_rate_lbp": 86500,
+    "trading_volume_usd": 100750000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 97000
+  },
+  {
+    "trade_date": "2023-05-03",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 138000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 96000
+  },
+  {
+    "trade_date": "2023-05-04",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 147000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-05",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 70000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-09",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 147000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-10",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 153000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-11",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 140000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-12",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 120000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-16",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 140000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-17",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 125000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-18",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 109500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-19",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 108500000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-23",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 113000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-24",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 105000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-06-01",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 205000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93800
+  },
+  {
+    "trade_date": "2023-06-02",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 131000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 94000
+  },
+  {
+    "trade_date": "2023-06-06",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 145000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93200
+  },
+  {
+    "trade_date": "2023-06-07",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 218000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93200
+  },
+  {
+    "trade_date": "2023-06-08",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 201000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93300
+  },
+  {
+    "trade_date": "2023-06-09",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 185000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93300
+  },
+  {
+    "trade_date": "2023-06-13",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 141000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93300
+  },
+  {
+    "trade_date": "2023-06-14",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 144000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93300
+  },
+  {
+    "trade_date": "2023-06-15",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 175000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93300
+  },
+  {
+    "trade_date": "2023-06-16",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 181000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93300
+  },
+  {
+    "trade_date": "2023-06-20",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 148000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93200
+  },
+  {
+    "trade_date": "2023-06-21",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 133000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93200
+  },
+  {
+    "trade_date": "2023-06-22",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 125000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93300
+  },
+  {
+    "trade_date": "2023-06-23",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 130000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93300
+  },
+  {
+    "trade_date": "2023-06-27",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 150000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 93400
+  },
+  {
+    "trade_date": "2023-07-04",
+    "sayrafa_avg_rate_lbp": 85500,
+    "trading_volume_usd": 154000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 91300
+  },
+  {
+    "trade_date": "2023-07-05",
+    "sayrafa_avg_rate_lbp": 85500,
+    "trading_volume_usd": 161000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 91300
+  },
+  {
+    "trade_date": "2023-07-06",
+    "sayrafa_avg_rate_lbp": 85500,
+    "trading_volume_usd": 165000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 91400
+  },
+  {
+    "trade_date": "2023-07-07",
+    "sayrafa_avg_rate_lbp": 85500,
+    "trading_volume_usd": 120000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 91400
+  },
+  {
+    "trade_date": "2023-07-11",
+    "sayrafa_avg_rate_lbp": 85500,
+    "trading_volume_usd": 150000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 91400
+  },
+  {
+    "trade_date": "2023-07-12",
+    "sayrafa_avg_rate_lbp": 85500,
+    "trading_volume_usd": 179000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 91400
+  },
+  {
+    "trade_date": "2023-07-13",
+    "sayrafa_avg_rate_lbp": 85500,
+    "trading_volume_usd": 190000000,
+    "effective_days": 1,
+    "parallel_market_avg_rate_lbp": 91400
+  },
+  {
+    "trade_date": "2021-07-26",
+    "sayrafa_avg_rate_lbp": 14400,
+    "trading_volume_usd": 2000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 16600
+  },
+  {
+    "trade_date": "2021-08-02",
+    "sayrafa_avg_rate_lbp": 15250,
+    "trading_volume_usd": 2500000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 19100
+  },
+  {
+    "trade_date": "2021-08-23",
+    "sayrafa_avg_rate_lbp": 16500,
+    "trading_volume_usd": 1000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 19050
+  },
+  {
+    "trade_date": "2021-08-30",
+    "sayrafa_avg_rate_lbp": 16700,
+    "trading_volume_usd": 1050000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 19250
+  },
+  {
+    "trade_date": "2021-09-06",
+    "sayrafa_avg_rate_lbp": 15500,
+    "trading_volume_usd": 2100000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 18200
+  },
+  {
+    "trade_date": "2021-09-13",
+    "sayrafa_avg_rate_lbp": 14500,
+    "trading_volume_usd": 600000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 16375
+  },
+  {
+    "trade_date": "2021-09-20",
+    "sayrafa_avg_rate_lbp": 13200,
+    "trading_volume_usd": 1050000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 14300
+  },
+  {
+    "trade_date": "2021-09-27",
+    "sayrafa_avg_rate_lbp": 14200,
+    "trading_volume_usd": 900000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 16300
+  },
+  {
+    "trade_date": "2021-10-04",
+    "sayrafa_avg_rate_lbp": 14600,
+    "trading_volume_usd": 1150000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 17600
+  },
+  {
+    "trade_date": "2021-10-11",
+    "sayrafa_avg_rate_lbp": 16000,
+    "trading_volume_usd": 1600000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 19250
+  },
+  {
+    "trade_date": "2021-10-25",
+    "sayrafa_avg_rate_lbp": 17800,
+    "trading_volume_usd": 5600000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 20350
+  },
+  {
+    "trade_date": "2021-11-01",
+    "sayrafa_avg_rate_lbp": 17400,
+    "trading_volume_usd": 5000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 21100
+  },
+  {
+    "trade_date": "2021-11-08",
+    "sayrafa_avg_rate_lbp": 17400,
+    "trading_volume_usd": 4000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 20850
+  },
+  {
+    "trade_date": "2021-11-15",
+    "sayrafa_avg_rate_lbp": 19000,
+    "trading_volume_usd": 4300000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 22750
+  },
+  {
+    "trade_date": "2021-11-29",
+    "sayrafa_avg_rate_lbp": 20400,
+    "trading_volume_usd": 5250000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 24750
+  },
+  {
+    "trade_date": "2021-12-06",
+    "sayrafa_avg_rate_lbp": 19400,
+    "trading_volume_usd": 8250000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 23050
+  },
+  {
+    "trade_date": "2021-12-13",
+    "sayrafa_avg_rate_lbp": 21300,
+    "trading_volume_usd": 12000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 26300
+  },
+  {
+    "trade_date": "2021-12-20",
+    "sayrafa_avg_rate_lbp": 22100,
+    "trading_volume_usd": 6000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 27100
+  },
+  {
+    "trade_date": "2022-01-10",
+    "sayrafa_avg_rate_lbp": 24600,
+    "trading_volume_usd": 19000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 30550
+  },
+  {
+    "trade_date": "2022-01-17",
+    "sayrafa_avg_rate_lbp": 23900,
+    "trading_volume_usd": 43000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 24300
+  },
+  {
+    "trade_date": "2022-01-24",
+    "sayrafa_avg_rate_lbp": 22600,
+    "trading_volume_usd": 15000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 23200
+  },
+  {
+    "trade_date": "2022-01-31",
+    "sayrafa_avg_rate_lbp": 21500,
+    "trading_volume_usd": 43000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 21800
+  },
+  {
+    "trade_date": "2022-02-07",
+    "sayrafa_avg_rate_lbp": 20800,
+    "trading_volume_usd": 39000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 21300
+  },
+  {
+    "trade_date": "2022-02-21",
+    "sayrafa_avg_rate_lbp": 20300,
+    "trading_volume_usd": 50000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 20650
+  },
+  {
+    "trade_date": "2022-02-28",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 73000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 20625
+  },
+  {
+    "trade_date": "2022-03-07",
+    "sayrafa_avg_rate_lbp": 20200,
+    "trading_volume_usd": 80000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 20675
+  },
+  {
+    "trade_date": "2022-03-14",
+    "sayrafa_avg_rate_lbp": 20900,
+    "trading_volume_usd": 74000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 22450
+  },
+  {
+    "trade_date": "2022-03-21",
+    "sayrafa_avg_rate_lbp": 21500,
+    "trading_volume_usd": 36000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 23300
+  },
+  {
+    "trade_date": "2022-04-05",
+    "sayrafa_avg_rate_lbp": 22200,
+    "trading_volume_usd": 61000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 24050
+  },
+  {
+    "trade_date": "2022-04-11",
+    "sayrafa_avg_rate_lbp": 22250,
+    "trading_volume_usd": 64500000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 24250
+  },
+  {
+    "trade_date": "2022-05-09",
+    "sayrafa_avg_rate_lbp": 22600,
+    "trading_volume_usd": 46000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 26850
+  },
+  {
+    "trade_date": "2022-05-16",
+    "sayrafa_avg_rate_lbp": 23200,
+    "trading_volume_usd": 50000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 27700
+  },
+  {
+    "trade_date": "2022-05-23",
+    "sayrafa_avg_rate_lbp": 24300,
+    "trading_volume_usd": 48000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 31850
+  },
+  {
+    "trade_date": "2022-05-30",
+    "sayrafa_avg_rate_lbp": 24500,
+    "trading_volume_usd": 196000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 27100
+  },
+  {
+    "trade_date": "2022-06-06",
+    "sayrafa_avg_rate_lbp": 24400,
+    "trading_volume_usd": 113000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 27750
+  },
+  {
+    "trade_date": "2022-06-13",
+    "sayrafa_avg_rate_lbp": 24700,
+    "trading_volume_usd": 55000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 27900
+  },
+  {
+    "trade_date": "2022-06-20",
+    "sayrafa_avg_rate_lbp": 24900,
+    "trading_volume_usd": 41000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 28350
+  },
+  {
+    "trade_date": "2022-06-27",
+    "sayrafa_avg_rate_lbp": 25300,
+    "trading_volume_usd": 49000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 29925
+  },
+  {
+    "trade_date": "2022-07-04",
+    "sayrafa_avg_rate_lbp": 25300,
+    "trading_volume_usd": 73800000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 29150
+  },
+  {
+    "trade_date": "2022-07-18",
+    "sayrafa_avg_rate_lbp": 25600,
+    "trading_volume_usd": 42000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 29400
+  },
+  {
+    "trade_date": "2022-08-01",
+    "sayrafa_avg_rate_lbp": 25700,
+    "trading_volume_usd": 81000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 30050
+  },
+  {
+    "trade_date": "2022-08-08",
+    "sayrafa_avg_rate_lbp": 26100,
+    "trading_volume_usd": 23000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 31150
+  },
+  {
+    "trade_date": "2022-08-22",
+    "sayrafa_avg_rate_lbp": 27100,
+    "trading_volume_usd": 25000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 34200
+  },
+  {
+    "trade_date": "2022-08-29",
+    "sayrafa_avg_rate_lbp": 27200,
+    "trading_volume_usd": 16000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 32000
+  },
+  {
+    "trade_date": "2022-09-05",
+    "sayrafa_avg_rate_lbp": 28000,
+    "trading_volume_usd": 52000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 34600
+  },
+  {
+    "trade_date": "2022-09-12",
+    "sayrafa_avg_rate_lbp": 28400,
+    "trading_volume_usd": 28000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 35300
+  },
+  {
+    "trade_date": "2022-09-19",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 48000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 38300
+  },
+  {
+    "trade_date": "2022-09-26",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 86000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 37300
+  },
+  {
+    "trade_date": "2022-10-03",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 82200000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 38800
+  },
+  {
+    "trade_date": "2022-10-17",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 60000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 40100
+  },
+  {
+    "trade_date": "2022-10-24",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 87000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 37200
+  },
+  {
+    "trade_date": "2022-10-31",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 22000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 36300
+  },
+  {
+    "trade_date": "2022-11-07",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 25000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 38000
+  },
+  {
+    "trade_date": "2022-11-14",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 28000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 39600
+  },
+  {
+    "trade_date": "2022-11-21",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 25000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 39700
+  },
+  {
+    "trade_date": "2022-11-28",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 45000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 40350
+  },
+  {
+    "trade_date": "2022-12-05",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 40000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 41500
+  },
+  {
+    "trade_date": "2022-12-12",
+    "sayrafa_avg_rate_lbp": 30600,
+    "trading_volume_usd": 35000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 42400
+  },
+  {
+    "trade_date": "2022-12-19",
+    "sayrafa_avg_rate_lbp": 30800,
+    "trading_volume_usd": 36000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 44300
+  },
+  {
+    "trade_date": "2023-01-16",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 57000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 48000
+  },
+  {
+    "trade_date": "2023-01-23",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 65000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 51200
+  },
+  {
+    "trade_date": "2023-01-30",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 50000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 57500
+  },
+  {
+    "trade_date": "2023-02-06",
+    "sayrafa_avg_rate_lbp": 42000,
+    "trading_volume_usd": 22000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 61000
+  },
+  {
+    "trade_date": "2023-02-13",
+    "sayrafa_avg_rate_lbp": 43500,
+    "trading_volume_usd": 10000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 66600
+  },
+  {
+    "trade_date": "2023-02-20",
+    "sayrafa_avg_rate_lbp": 44100,
+    "trading_volume_usd": 25000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 80700
+  },
+  {
+    "trade_date": "2023-02-27",
+    "sayrafa_avg_rate_lbp": 45400,
+    "trading_volume_usd": 43000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 81500
+  },
+  {
+    "trade_date": "2023-03-06",
+    "sayrafa_avg_rate_lbp": 70000,
+    "trading_volume_usd": 25000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 79800
+  },
+  {
+    "trade_date": "2023-03-13",
+    "sayrafa_avg_rate_lbp": 75800,
+    "trading_volume_usd": 80000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-03-20",
+    "sayrafa_avg_rate_lbp": 83500,
+    "trading_volume_usd": 20000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 113000
+  },
+  {
+    "trade_date": "2023-03-27",
+    "sayrafa_avg_rate_lbp": 90000,
+    "trading_volume_usd": 45000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 107500
+  },
+  {
+    "trade_date": "2023-04-03",
+    "sayrafa_avg_rate_lbp": 88000,
+    "trading_volume_usd": 85000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 102000
+  },
+  {
+    "trade_date": "2023-05-08",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 140000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-15",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 133000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-22",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 130500000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-29",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 112500000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-06-05",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 175000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 93200
+  },
+  {
+    "trade_date": "2023-06-12",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 183000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 93300
+  },
+  {
+    "trade_date": "2023-06-19",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 185000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 93200
+  },
+  {
+    "trade_date": "2023-06-26",
+    "sayrafa_avg_rate_lbp": 86200,
+    "trading_volume_usd": 160000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 93200
+  },
+  {
+    "trade_date": "2023-07-10",
+    "sayrafa_avg_rate_lbp": 85500,
+    "trading_volume_usd": 141000000,
+    "effective_days": 3,
+    "parallel_market_avg_rate_lbp": 91500
+  },
+  {
+    "trade_date": "2021-07-02",
+    "sayrafa_avg_rate_lbp": 12000,
+    "trading_volume_usd": 20000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 17200
+  },
+  {
+    "trade_date": "2021-07-09",
+    "sayrafa_avg_rate_lbp": 15200,
+    "trading_volume_usd": 5000000,
+    "effective_days": 7,
+    "parallel_market_avg_rate_lbp": 19100
+  },
+  {
+    "trade_date": "2021-07-16",
+    "sayrafa_avg_rate_lbp": 16800,
+    "trading_volume_usd": 8000000,
+    "effective_days": 7,
+    "parallel_market_avg_rate_lbp": 22500
+  },
+  {
+    "trade_date": "2021-07-23",
+    "sayrafa_avg_rate_lbp": 17500,
+    "trading_volume_usd": 3000000,
+    "effective_days": 7,
+    "parallel_market_avg_rate_lbp": 21175
+  },
+  {
+    "trade_date": "2021-08-05",
+    "sayrafa_avg_rate_lbp": 18000,
+    "trading_volume_usd": 2000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 21350
+  },
+  {
+    "trade_date": "2021-08-10",
+    "sayrafa_avg_rate_lbp": 16500,
+    "trading_volume_usd": 1500000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 20650
+  },
+  {
+    "trade_date": "2021-08-17",
+    "sayrafa_avg_rate_lbp": 16000,
+    "trading_volume_usd": 1100000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 19000
+  },
+  {
+    "trade_date": "2021-08-20",
+    "sayrafa_avg_rate_lbp": 16500,
+    "trading_volume_usd": 1100000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 19100
+  },
+  {
+    "trade_date": "2021-09-08",
+    "sayrafa_avg_rate_lbp": 16000,
+    "trading_volume_usd": 700000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 18250
+  },
+  {
+    "trade_date": "2021-09-17",
+    "sayrafa_avg_rate_lbp": 13200,
+    "trading_volume_usd": 1200000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 14000
+  },
+  {
+    "trade_date": "2021-10-16",
+    "sayrafa_avg_rate_lbp": 16900,
+    "trading_volume_usd": 5000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 20250
+  },
+  {
+    "trade_date": "2021-10-20",
+    "sayrafa_avg_rate_lbp": 17500,
+    "trading_volume_usd": 3000000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 20700
+  },
+  {
+    "trade_date": "2021-10-29",
+    "sayrafa_avg_rate_lbp": 17500,
+    "trading_volume_usd": 6900000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 20350
+  },
+  {
+    "trade_date": "2021-11-19",
+    "sayrafa_avg_rate_lbp": 19300,
+    "trading_volume_usd": 5300000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 23075
+  },
+  {
+    "trade_date": "2021-11-23",
+    "sayrafa_avg_rate_lbp": 19500,
+    "trading_volume_usd": 7100000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 23550
+  },
+  {
+    "trade_date": "2021-11-26",
+    "sayrafa_avg_rate_lbp": 21100,
+    "trading_volume_usd": 3500000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 24975
+  },
+  {
+    "trade_date": "2021-12-17",
+    "sayrafa_avg_rate_lbp": 22400,
+    "trading_volume_usd": 20000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 26500
+  },
+  {
+    "trade_date": "2021-12-27",
+    "sayrafa_avg_rate_lbp": 23200,
+    "trading_volume_usd": 12200000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 27400
+  },
+  {
+    "trade_date": "2022-01-03",
+    "sayrafa_avg_rate_lbp": 23500,
+    "trading_volume_usd": 14000000,
+    "effective_days": 5,
+    "parallel_market_avg_rate_lbp": 28750
+  },
+  {
+    "trade_date": "2022-01-07",
+    "sayrafa_avg_rate_lbp": 24300,
+    "trading_volume_usd": 24900000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 30000
+  },
+  {
+    "trade_date": "2022-01-14",
+    "sayrafa_avg_rate_lbp": 24400,
+    "trading_volume_usd": 41500000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 28950
+  },
+  {
+    "trade_date": "2022-02-10",
+    "sayrafa_avg_rate_lbp": 20600,
+    "trading_volume_usd": 50000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 21150
+  },
+  {
+    "trade_date": "2022-02-15",
+    "sayrafa_avg_rate_lbp": 20400,
+    "trading_volume_usd": 50000000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 21000
+  },
+  {
+    "trade_date": "2022-03-28",
+    "sayrafa_avg_rate_lbp": 22150,
+    "trading_volume_usd": 60000000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 24100
+  },
+  {
+    "trade_date": "2022-04-20",
+    "sayrafa_avg_rate_lbp": 22900,
+    "trading_volume_usd": 44000000,
+    "effective_days": 5,
+    "parallel_market_avg_rate_lbp": 25600
+  },
+  {
+    "trade_date": "2022-04-26",
+    "sayrafa_avg_rate_lbp": 22900,
+    "trading_volume_usd": 67500000,
+    "effective_days": 5,
+    "parallel_market_avg_rate_lbp": 27700
+  },
+  {
+    "trade_date": "2022-05-05",
+    "sayrafa_avg_rate_lbp": 22500,
+    "trading_volume_usd": 53000000,
+    "effective_days": 6,
+    "parallel_market_avg_rate_lbp": 26850
+  },
+  {
+    "trade_date": "2022-05-26",
+    "sayrafa_avg_rate_lbp": 24600,
+    "trading_volume_usd": 64000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 35100
+  },
+  {
+    "trade_date": "2022-06-29",
+    "sayrafa_avg_rate_lbp": 25200,
+    "trading_volume_usd": 46500000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 28400
+  },
+  {
+    "trade_date": "2022-07-13",
+    "sayrafa_avg_rate_lbp": 25400,
+    "trading_volume_usd": 57000000,
+    "effective_days": 5,
+    "parallel_market_avg_rate_lbp": 29400
+  },
+  {
+    "trade_date": "2022-07-25",
+    "sayrafa_avg_rate_lbp": 25600,
+    "trading_volume_usd": 25000000,
+    "effective_days": 7,
+    "parallel_market_avg_rate_lbp": 29550
+  },
+  {
+    "trade_date": "2022-08-05",
+    "sayrafa_avg_rate_lbp": 25800,
+    "trading_volume_usd": 56000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 30600
+  },
+  {
+    "trade_date": "2022-08-10",
+    "sayrafa_avg_rate_lbp": 26100,
+    "trading_volume_usd": 32000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 31000
+  },
+  {
+    "trade_date": "2022-08-16",
+    "sayrafa_avg_rate_lbp": 26300,
+    "trading_volume_usd": 38000000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 32000
+  },
+  {
+    "trade_date": "2022-10-11",
+    "sayrafa_avg_rate_lbp": 29800,
+    "trading_volume_usd": 73000000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 39700
+  },
+  {
+    "trade_date": "2022-11-02",
+    "sayrafa_avg_rate_lbp": 30100,
+    "trading_volume_usd": 27000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 37700
+  },
+  {
+    "trade_date": "2022-11-23",
+    "sayrafa_avg_rate_lbp": 30300,
+    "trading_volume_usd": 30000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 39700
+  },
+  {
+    "trade_date": "2022-12-27",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 36000000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 47750
+  },
+  {
+    "trade_date": "2023-01-03",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 310000000,
+    "effective_days": 5,
+    "parallel_market_avg_rate_lbp": 42100
+  },
+  {
+    "trade_date": "2023-01-09",
+    "sayrafa_avg_rate_lbp": 38000,
+    "trading_volume_usd": 100000000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 45000
+  },
+  {
+    "trade_date": "2023-02-10",
+    "sayrafa_avg_rate_lbp": 43600,
+    "trading_volume_usd": 12000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 65000
+  },
+  {
+    "trade_date": "2023-02-15",
+    "sayrafa_avg_rate_lbp": 43600,
+    "trading_volume_usd": 32000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 76500
+  },
+  {
+    "trade_date": "2023-04-11",
+    "sayrafa_avg_rate_lbp": 87000,
+    "trading_volume_usd": 83000000,
+    "effective_days": 5,
+    "parallel_market_avg_rate_lbp": 97000
+  },
+  {
+    "trade_date": "2023-04-18",
+    "sayrafa_avg_rate_lbp": 86700,
+    "trading_volume_usd": 99350000,
+    "effective_days": 5,
+    "parallel_market_avg_rate_lbp": 97000
+  },
+  {
+    "trade_date": "2023-04-25",
+    "sayrafa_avg_rate_lbp": 86500,
+    "trading_volume_usd": 86000000,
+    "effective_days": 5,
+    "parallel_market_avg_rate_lbp": 97000
+  },
+  {
+    "trade_date": "2023-05-02",
+    "sayrafa_avg_rate_lbp": 86500,
+    "trading_volume_usd": 145000000,
+    "effective_days": 4,
+    "parallel_market_avg_rate_lbp": 96500
+  },
+  {
+    "trade_date": "2023-05-26",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 115000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-05-31",
+    "sayrafa_avg_rate_lbp": 86300,
+    "trading_volume_usd": 167000000,
+    "effective_days": 2,
+    "parallel_market_avg_rate_lbp": 94500
+  },
+  {
+    "trade_date": "2023-07-03",
+    "sayrafa_avg_rate_lbp": 85500,
+    "trading_volume_usd": 150000000,
+    "effective_days": 6,
+    "parallel_market_avg_rate_lbp": 91500
+  }
+]
