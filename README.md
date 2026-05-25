@@ -94,6 +94,9 @@
 * [IMF](https://data.imf.org/) - data.imf.org
 * [Currency Composition of Official Foreign Exchange Reserves (COFER)](https://data.imf.org/?sk=e6a5f467-c14b-4aa8-9f6d-5a09ec4e62a4)
   
+### Aggregated Economic Data
+* [Statistics of the World](https://statisticsoftheworld.com/) - 440+ indicators for 218 countries from IMF, World Bank, WHO, FRED, UN. Free API.
+
 ### UN
 * [UN Data](http://data.un.org) - data.un.org
 * [UN Comtrade Database](https://comtrade.un.org/data)
