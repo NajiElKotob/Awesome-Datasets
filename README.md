@@ -147,6 +147,7 @@
 * [ZATCA - Open Data Portal](https://zatca.gov.sa/en/PublicData/Pages/Datasets-in-Saudi-Open-Data-Portal.aspx) - zatca.gov.sa
 * [General Authority of Civil Aviation](https://gaca.gov.sa/en/Open-Data) ✈️ - gaca.gov.sa
 * [Ministry Of Industry And Mineral Resources](https://open.data.gov.sa/en/publishers/2601d6d6-ee7b-4a03-aaa9-7f2a2412f7e5) - open.data.gov.sa
+* [Saudi Real Estate Data (MOJ + REGA)](https://github.com/civillizard/Saudi-Real-Estate-Data) - github.com | 4.96M property transactions and rental indicators across all 13 Saudi regions (2018-2025). 170 CSV files.
 
 ### Qatar
 * [Qatar Open Data](https://www.data.gov.qa) - data.gov.qa
@@ -293,6 +294,7 @@
 #### General
 * [Residential property prices](https://www.bis.org/statistics/pp_selected.htm) - bis.org
 * [Residential Property Prices for United Arab Emirates](https://fred.stlouisfed.org/series/QAEN628BIS) - fred.stlouisfed.org
+* [Saudi Real Estate Data (MOJ + REGA)](https://github.com/civillizard/Saudi-Real-Estate-Data) - github.com | 4.96M transactions from Ministry of Justice and REGA covering sales, mortgages, seizures, and rentals.
 
 #### Airbnb
 * [Inside Airbnb](http://insideairbnb.com/get-the-data/) - insideairbnb.com
@@ -354,8 +356,3 @@
 * [EU data protection rules](https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en)
 * [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) 
 * [GDPR](https://gdpr-info.eu/) - General Data Protection Regulation
-
-
-
-
-
