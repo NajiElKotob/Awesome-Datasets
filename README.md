@@ -23,6 +23,7 @@
 * [The Quality of Government Expert Survey](https://www.gu.se/en/quality-government/qog-data/data-downloads/qog-expert-survey) - gu.se | The QoG Expert Survey is a research project aimed at documenting the organizational design of public bureaucracies and bureaucratic behavior in countries around the world.
 * [HORIZON by exca](https://github.com/excainsights/HORIZON/tree/main/Datasets) 🌟 - exca Insights | Open Datasets
 * [WorldPop](https://www.worldpop.org/datacatalog/) - worldpop.org
+* [eBay Sold Comps](https://github.com/silentdirectivellc-hub/ebay-sold-comps) - 570 completed eBay sales across 9 collectible categories (Pyrex, cast iron, sterling, Fiesta, Le Creuset, Hot Wheels, CorningWare, sewing machines, retro games) as plain CSV: title, sold price, end date, condition, search keyword and the item id so any row can be re-opened on eBay. CC0, with a METHOD.md that states the sampling window and what was dropped and why.
 
 ## CSV
 * [Customers CSV Sample (Datablist)](https://github.com/datablist/sample-csv-files) - github.com
