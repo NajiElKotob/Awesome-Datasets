@@ -26,6 +26,7 @@
 
 ## CSV
 * [Customers CSV Sample (Datablist)](https://github.com/datablist/sample-csv-files) - github.com
+* [HDD Price Index](https://github.com/AdamDudley/hddhunt-price-index) - github.com | Daily cheapest new internal 3.5" SATA HDD price per TB (USD/TB) by capacity tier; CSV/JSON/JSONL time series, no login, CC BY 4.0
 
 -----
 
