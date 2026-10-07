@@ -288,6 +288,7 @@
 
 ### HR
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
+* [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Which Applicant Tracking System each of 743 large employers uses (Fortune 500, Global 2000, $1B+ private). MIT, CSV + npm.
 
 ### Demographics
 * [Fertility rate, total (births per woman)](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN) - data.worldbank.org
