@@ -254,8 +254,8 @@
 * [CitiBike](https://ride.citibikenyc.com/system-data) - citibikenyc.com
 
 ### Exchange Rates 💱
-* [European Central Bank (API)](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion 
-   * e.g. https://api.exchangeratesapi.io/2021-02-01, https://api.exchangeratesapi.io/latest?base=USD
+* [European Central Bank (API)](https://allratestoday.com/api/open/central-bank/ecb) - Official ECB euro reference rates as keyless JSON; same path serves 120 other central banks (`/central-bank/<code>`)
+   * e.g. https://allratestoday.com/api/open/central-bank/ecb?base=USD ; bulk daily CSV/JSON mirrors: https://huggingface.co/datasets/AllRates/central-bank-exchange-rates (CC BY)
 
 ### Media
 * [IMDb Datasets](https://www.imdb.com/interfaces/) - imdb.com
