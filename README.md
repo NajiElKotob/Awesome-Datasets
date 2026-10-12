@@ -157,6 +157,10 @@
 ### EU
 * [EU Open Data Portal](https://data.europa.eu/)- data.europa.eu
 
+### Romania
+* [Licitatii Medicale](https://licitatiimedicale.com) - Romanian hazardous medical waste public procurement open dataset (487 contract awards, CPV 9052*, 155 hospitals, 49 operators, period 2019-2026, CC BY 4.0, sourced from TED).
+* [data.gov.ro](http://data.gov.ro/) - Romanian government open data portal.
+
 ### USA
 * [U.S. Census Bureau](https://www.census.gov/people) - census.gov
 * [U.S Data](http://catalog.data.gov/dataset) - data.gov
