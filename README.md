@@ -41,6 +41,7 @@
 * [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
 * [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
 * [Our World in Data](https://ourworldindata.org/charts) 🌟🔥 - ourworldindata.org
+* [StatOrigin](https://statorigin.org/) - Free archive of industry statistics; each figure links to its original publisher, source document and source sentence (CC BY 4.0, REST API)
 * [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
 * [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 * [Cambridge Open Data](https://data.cambridgema.gov/)
