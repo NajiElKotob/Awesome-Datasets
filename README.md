@@ -233,6 +233,7 @@
 * [CoronaVirus Genome vs ZIKA/MERS/EBOLA](https://www.kaggle.com/nishantbhadauria/coronavirus-genome-vs-zikamersebola) - Comparison of different virus Genome for study
 * [Worldwide cancer data](https://www.wcrf.org/cancer-trends/worldwide-cancer-data/) - wcrf.org
 * [IHME](https://www.healthdata.org/data-tools-practices) - healthdata.org | Data tools and practices
+* [US healthcare job postings and posted pay (CareJobs.Now)](https://doi.org/10.5281/zenodo.23395728) - Open dataset (CC BY 4.0) of US healthcare job postings with the hourly pay employers post, from 270 hospitals' and health systems' career sites
   
 ### Satellite 🛰
 * [Earth Online (European Space Agency)](https://earth.esa.int/eogateway/search?skipDetection=true&text=&category=Data) - Discover and download the Earth observation data you need from the broad catalogue of missions the European Space Agency operate and support.
