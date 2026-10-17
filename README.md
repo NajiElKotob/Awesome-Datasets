@@ -216,6 +216,7 @@
 * [Brent crude and WTI oil prices from US EIA](https://github.com/datasets/oil-prices) - github.com/datasets
 * [Oil and Gas - Oman](https://data.gov.om/OMOLGS2016/oil-and-gas) - data.gov.om
 * [Statistical Review of World Energy](https://www.energyinst.org/statistical-review) - energyinst.org
+- [PetroEyes Markets](https://petroeyes.com/markets) - Live WTI, Brent and Henry Hub prices with guides to the EIA weekly petroleum report and the Baker Hughes rig count behind them.
 * Tableau Gallery
     * [World Oil Use and Reserves](https://www.tableau.com/solutions/gallery/oil-import-and-export)
     * [Worldwide Fuel Consumption](https://www.tableau.com/solutions/gallery/worldwide-oil-usage)
