@@ -39,6 +39,7 @@
 * [Gapminder](https://www.gapminder.org/data) ⭐ - gapminder.org
 * [Knoema](https://knoema.com/) - Knoema is the most comprehensive source of global decision-making data in the world.
 * [NYC Open Data](https://opendata.cityofnewyork.us/) - Open Data for All New Yorkers
+* [No Stairs Please](https://nostairsplease.com/) - Curated US small live-music venue dataset and [MCP endpoint](https://nostairsplease.com/mcp) covering all 50 states
 * [Open Data Watch](https://opendatawatch.com/) ⭐ - opendatawatch.com
 * [Our World in Data](https://ourworldindata.org/charts) 🌟🔥 - ourworldindata.org
 * [Eurostat](https://ec.europa.eu/eurostat/en/web/main/data/database) - The NUTS classification (Nomenclature of territorial units for statistics) 
